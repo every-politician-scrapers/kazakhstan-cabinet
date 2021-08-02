@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Kazakhstan",
+      "id": "Q232"
+    },
+    "cabinet": {
+      "id": "Q63144712",
+      "start": "2019-02-25",
+      "parent": "Q21686038"
+    },
+    "source": {
+        "url":   "https://primeminister.kz/en/government/composition",
+        "title": "Government Composition - Official Information Source of the Prime Minister of the Republic of Kazakhstan",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/kazakhstan-cabinet"
+}
