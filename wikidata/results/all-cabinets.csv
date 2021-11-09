@@ -1,0 +1,5 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q96419330,Serik Akhmetov Cabinet,2012-09-24,11,,,2014-04-02,11,,,Q21686038,Cabinet of Kazakhstan,,,Q96418414,First Massimov Cabinet,Q16632326,Second Massimov Cabinet,,,,
+,Q16632326,Second Massimov Cabinet,2014-04-02,11,,,2016-09-08,11,,,Q21686038,Cabinet of Kazakhstan,,,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet
+,Q26877833,Sagintayev Cabinet,2016-09-09,11,,,2019-02-21,11,,,Q21686038,Cabinet of Kazakhstan,,,Q16632326,Second Massimov Cabinet,Q63144712,Mamin Cabinet,Q16632326,Second Massimov Cabinet,,
+,Q63144712,Mamin Cabinet,2019-02-25,11,,,,,,,Q21686038,Cabinet of Kazakhstan,,,Q26877833,Sagintayev Cabinet,,,Q26877833,Sagintayev Cabinet,,
