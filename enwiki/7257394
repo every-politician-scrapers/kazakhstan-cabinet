@@ -413,6 +413,30 @@
       ]
     },
     {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dosaev graduated from both the Almaty Energy Institute and Moscow State Technical University.",
+              "links": [
+                {
+                  "text": "Almaty Energy Institute",
+                  "type": "internal",
+                  "page": "Almaty University of Power Engineering and Telecommunications"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moscow State Technical University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Career",
       "depth": 0,
       "paragraphs": [
@@ -593,6 +617,15 @@
         }
       ],
       "references": [
+        {
+          "title": "Kazakh Minister, Governor Dismissed Over HIV Outbreak",
+          "url": "https://www.rferl.org/a/1071483.html",
+          "access-date": "2021-11-25",
+          "website": "RadioFreeEurope/RadioLiberty",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Head of State Nursultan Nazarbaev accepted Erbolat Dosaev, Public Health Care Minister of the Republic of Kazakhstan",
           "url": "http://ak-orda.kz/en/special/events/head-of-the-state-nursultan-nazarbaev-received-erbolat-dosaev-public-health-care-minister-of-the-republic-of-kazakhstan",
@@ -1019,30 +1052,6 @@
           "access-date": "12 December 2017",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dosaev graduated from both the Almaty Energy Institute and Moscow State Technical University.",
-              "links": [
-                {
-                  "text": "Almaty Energy Institute",
-                  "type": "internal",
-                  "page": "Almaty University of Power Engineering and Telecommunications"
-                },
-                {
-                  "type": "internal",
-                  "page": "Moscow State Technical University"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
