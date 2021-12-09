@@ -673,6 +673,9 @@
               }
             ]
           },
+          "partner": {
+            "text": "Danny Nakamura\nm.2021"
+          },
           "children": {
             "text": "1",
             "number": 1
