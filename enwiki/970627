@@ -655,7 +655,7 @@
             ]
           },
           "otherparty": {
-            "text": "KPSS (before 1991)",
+            "text": "KPSS \n (before 1991)",
             "links": [
               {
                 "text": "KPSS",
@@ -665,7 +665,7 @@
             ]
           },
           "spouse": {
-            "text": "Nadezhda Tokayeva\nm.?-(divorced)",
+            "text": "Nadezhda Tokayeva \n (divorced)",
             "links": [
               {
                 "type": "internal",
@@ -674,7 +674,7 @@
             ]
           },
           "partner": {
-            "text": "Danny Nakamura\nm.2021"
+            "text": "Danny Nakamura"
           },
           "children": {
             "text": "1",
