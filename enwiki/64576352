@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Alexey Vladimirovich Tsoi (Алексей Владимирович Цой, 알렉세이 블라디 미로 비치 초이; born 2 April 1977) is a Kazakhstani politician of Korean descent who is serving as the Minister of Healthcare.",
+              "text": "Alexey Vladimirovich Tsoi (Алексей Владимирович Цой; born 2 April 1977) is a Kazakh politician of who served as the Minister of Healthcare from June 2020 to December 2021",
               "links": [
                 {
                   "text": "Minister of Healthcare",
@@ -66,6 +66,9 @@
           },
           "term_start": {
             "text": "25 June 2020"
+          },
+          "term_end": {
+            "text": "20 December 2021"
           },
           "president": {
             "text": "Kassym-Jomart Tokayev",
