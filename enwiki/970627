@@ -52,8 +52,12 @@
         {
           "sentences": [
             {
-              "text": "Tokayev began his career in 1975 when he worked as diplomat in Singapore and China.",
+              "text": "A graduate of Moscow State Institute of International Relations, Tokayev began his career in 1975 when he worked as diplomat in Singapore and China.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Moscow State Institute of International Relations"
+                },
                 {
                   "type": "internal",
                   "page": "Singapore"
@@ -65,7 +69,14 @@
               ]
             },
             {
-              "text": "In 1992, he became the Deputy Foreign Minister of Kazakhstan, where he took a position against nuclear disarmament in the former Soviet countries."
+              "text": "In 1992, he became the Deputy Foreign Minister of Kazakhstan, where he was involved on the issues of nuclear disarmament within the former Soviet republics.",
+              "links": [
+                {
+                  "text": "nuclear disarmament",
+                  "type": "internal",
+                  "page": "nuclear disarmament"
+                }
+              ]
             },
             {
               "text": "In March 1999, Tokayev became the Deputy Prime Minister.",
@@ -78,12 +89,16 @@
               ]
             },
             {
-              "text": "In October 1999, with the endorsement of the Parliament, he was appointed as a Prime Minister by the presidential decree.",
+              "text": "In October 1999, with the endorsement of the Parliament, he was appointed as a Prime Minister by President Nursultan Nazarbayev.",
               "links": [
                 {
                   "text": "Prime Minister",
                   "type": "internal",
                   "page": "Prime Minister of Kazakhstan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nursultan Nazarbayev"
                 }
               ]
             },
@@ -91,10 +106,10 @@
               "text": "From 2002, Tokayev served as Foreign Minister, where he continued to play an active role in the field of nuclear non-proliferation."
             },
             {
-              "text": "He then served as the Chair of the Senate of Kazakhstan from 11 January 2007 to 15 April 2011 and from 16 October 2013 to 19 March 2019 and was the Director-General of the United Nations Office at Geneva from 12 March 2011 to 16 October 2013.",
+              "text": "He then served as the Chairman of the Kazakh Senate from 11 January 2007 to 15 April 2011 and from 16 October 2013 to 19 March 2019 and was the Director-General of the United Nations Office at Geneva from 12 March 2011 to 16 October 2013.",
               "links": [
                 {
-                  "text": "Chair of the Senate of Kazakhstan",
+                  "text": "Chairman of the Kazakh Senate",
                   "type": "internal",
                   "page": "Senate of Kazakhstan"
                 },
@@ -110,30 +125,72 @@
         {
           "sentences": [
             {
-              "text": "On 20 March 2019, his predecessor Nursultan Nazarbayev resigned, resulting in Tokayev becoming the acting president."
+              "text": "In 2019, Tokayev assumed office as the Acting President of Kazakhstan after Nursultan Nazarbayev's resignation."
             },
             {
-              "text": "He announced snap elections for 9 June 2019 and shortly with the endorsement by Nazarbayev became nominee for the ruling Nur Otan.",
+              "text": "Tokayev, a member of the ruling Nur Otan party ran in the following snap elections held on 9 June 2019 with the support by Nazarbayev as a nominee from the party, winning with 71% of the vote that was recieved criticism by the international organisations and opposition while facing public scrutiny.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Nur Otan"
+                },
                 {
                   "text": "snap elections",
                   "type": "internal",
                   "page": "2019 Kazakh presidential election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nur Otan"
                 }
               ]
             },
             {
-              "text": "Tokayev was elected president of Kazakhstan with 71% of the popular vote in a criticised vote."
+              "text": "After being fully sworn to office on 12 June 2019, Tokayev pledged to continue Nazarbayev's policies in the spheres of country's development including social and economic reforms."
             },
             {
-              "text": "At his inauguration, Tokayev promised a continuation of Nazarbayev's policies in the country's development and social and economic reforms."
+              "text": "During his presidency, he has enacted several reforms aimed at modernizing and democratizing Kazakhstan by promoting political pluralism, increasing workers' salaries, reducing corruption, abolishing capital punishment, and decentralizing the local government."
             },
             {
-              "text": "During his tenure, he has signed certain reform laws aimed at democratizing the country."
+              "text": "Tokayev has sought in forming a \"listening state\" in which the government actively takes considerations and views from the public in regards to policymaking."
+            },
+            {
+              "text": "From 2020, Tokayev had endured the economic downturn and troubles caused by the COVID-19 pandemic and War in Afghanistan and has sought to solve the Kazakhstan's rising inflation, fears of domestic terrorism, illegal migration, drug trafficking, nuclear energy development as well as COVID-19 vaccination rollout.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Kazakhstan"
+                },
+                {
+                  "text": "War in Afghanistan",
+                  "type": "internal",
+                  "page": "War in Afghanistan (2001–2021)"
+                },
+                {
+                  "text": "COVID-19 vaccination rollout",
+                  "type": "internal",
+                  "page": "COVID-19 vaccination in Kazakhstan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since becoming president, Tokayev's political influence and role in Kazakhstan had steadily grown apart from Nazarbayev as he assumed various other powerful postitions which were previously held by Nazarbayev."
+            },
+            {
+              "text": "While managing to maintain the country's stability, ensuring political transition, and enacting new reforms, Tokayev's governance has remained to be authoritarian with human rights abuses.",
+              "links": [
+                {
+                  "text": "authoritarian",
+                  "type": "internal",
+                  "page": "Authoritarianism"
+                },
+                {
+                  "text": "human rights",
+                  "type": "internal",
+                  "page": "human rights"
+                }
+              ]
             }
           ]
         }
@@ -758,6 +815,25 @@
           "archive-date": "19 March 2019",
           "url-status": "live",
           "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Political Reforms {{!}} Embassy of Kazakhstan in Washington, D.C.",
+          "url": "https://kazakhembus.com/domestic-policy/elections-political-reforms/political-reforms",
+          "access-date": "2021-12-29",
+          "website": "kazakhembus.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-25",
+          "title": "Is EU serious about human rights in Kazakhstan?",
+          "url": "https://www.hrw.org/news/2021/11/25/eu-serious-about-human-rights-kazakhstan",
+          "access-date": "2021-12-29",
+          "website": "Human Rights Watch",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
