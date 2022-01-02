@@ -255,31 +255,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.akorda.kz/ru/legal_acts/decrees/o-prisvoenii-vysshih-voinskih-i-specialnyh-zvanii-klassnyh-chinov-i-kvalifikacionnyh-klassov",
-          "title": "О присвоении высших воинских и специальных званий, классных чинов и квалификационных классов — Официальный сайт Президента Республики Казахстан",
-          "website": "Akorda.kz",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://vestnikkavkaza.net/news/Murat-Bektanov-appointed-new-commander-of-Kazakh-ground-forces.html",
-          "title": "Murat Bektanov appointed new commander of Kazakh ground forces",
-          "website": "vestnikkavkaza.net",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://tengrinews.kz/kazakhstan_news/nazarbaev-osvobodil-doljnostey-dvuh-rukovoditeley-295677/",
-          "title": "Назарбаев освободил от должностей двух руководителей регионального командования",
-          "website": "Tengrinews.kz",
-          "language": "ru",
-          "access-date": "2017-11-05",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
