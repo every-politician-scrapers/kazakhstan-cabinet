@@ -365,51 +365,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://en.tengrinews.kz/politics_sub/Kazakhstans-Government-sees-a-large-scaled-reshuffle-16069/",
-          "title": "Kazakhstan’s Government sees a large-scaled reshuffle",
-          "work": "Tengrinews.kz English",
-          "access-date": "17 January 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "author": "Reuters Staff",
-          "title": "Kazakh president names two new deputy PMs",
-          "url": "https://www.reuters.com/article/us-kazakhstan-government/kazakh-president-names-two-new-deputy-pms-idUSKCN1B90W8",
-          "access-date": "1 September 2017",
-          "publisher": "Reuters",
-          "date": "29 August 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Nurshayeva",
-          "first1": "Raushan",
-          "last2": "Auyezov",
-          "first2": "Olzhas",
-          "title": "Kazakh Tengizchevroil expansion to cost $30 bln - minister",
-          "url": "https://www.reuters.com/article/chevron-kazakhstan-expansion/kazakh-tengizchevroil-expansion-to-cost-30-bln-minister-idUSL8N14H05G20151228",
-          "access-date": "1 September 2017",
-          "publisher": "Reuters",
-          "date": "28 December 2015",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

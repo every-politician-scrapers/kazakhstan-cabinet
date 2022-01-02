@@ -387,44 +387,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rferl.org/a/kazakh-government-resigns-nazarbaev/29783173.html",
-          "title": "Kazakh Government Resigns After Nazarbaev Says They Must Go",
-          "publisher": "Radio Free Europe/Radio Liberty",
-          "date": "February 21, 2019",
-          "language": "en-US",
-          "access-date": "February 21, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.rzd-partner.com/news/railway-transport/railways-in-the-cis-and-baltic-states/kazakhstan-temir-zholy-plans-to-double-volume-of-transit-traffic-by-all-transport-modes-by-2020/",
-          "archive-url": "https://archive.today/20140214221718/http://www.rzd-partner.com/news/railway-transport/railways-in-the-cis-and-baltic-states/kazakhstan-temir-zholy-plans-to-double-volume-of-transit-traffic-by-all-transport-modes-by-2020/",
-          "url-status": "dead",
-          "archive-date": "February 14, 2014",
-          "title": "Kazakhstan Temir Zholy Plans to Double Volume of Transit Traffic by All Transport Modes by 2020",
-          "date": "April 30, 2013",
-          "access-date": "February 15, 2014",
-          "publisher": "RZD-Partner.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.iihf.com/home-of-hockey/news/news-singleview/article/kapitan-kazakhstan.html?tx_ttnews%5BbackPid%5D=955&cHash=1dc29a4dd9",
-          "title": "Kapitan Kazakhstan",
-          "last": "Merk",
-          "first": "Martin",
-          "date": "September 4, 2010",
-          "access-date": "February 15, 2014",
-          "publisher": "IIHF.com",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140228182211/http://www.iihf.com/home-of-hockey/news/news-singleview/article/kapitan-kazakhstan.html?tx_ttnews%5BbackPid%5D=955&cHash=1dc29a4dd9",
-          "archive-date": "February 28, 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
