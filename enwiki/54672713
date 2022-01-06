@@ -53,7 +53,7 @@
       ],
       "templates": [
         {
-          "description": "Kazakh lieutenant general",
+          "description": "Kazakh high supreme general",
           "template": "short description"
         },
         {
@@ -62,21 +62,33 @@
           "month": "9",
           "day": "18",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "USSR"
+          ],
+          "template": "army"
+        },
+        {
+          "list": [
+            "Kazakhstan"
+          ],
+          "template": "army"
         }
       ],
       "infoboxes": [
         {
           "honorific_suffix": {
-            "text": "Lieutenant Général"
+            "text": "Lieutenant General"
           },
           "image": {
-            "text": "File:BAL 0695-1200.jpg"
+            "text": "BAL 0695-1200 (cropped).jpg"
           },
           "office": {
-            "text": "Minister of Defence",
+            "text": "Minister of The Army Defence Force",
             "links": [
               {
-                "text": "Minister of Defence",
+                "text": "Minister of The Army Defence Force ",
                 "type": "internal",
                 "page": "Ministry of Defense (Kazakhstan)"
               }
@@ -118,7 +130,7 @@
               {
                 "text": "Chief of the General Staff",
                 "type": "internal",
-                "page": "Chief of the General Staff (Kazakhstan)"
+                "page": "Chief of The Air Force (Kazakhstan)"
               }
             ]
           },
@@ -230,15 +242,6 @@
                 "text": "Kazakhstan",
                 "type": "internal",
                 "page": "kazakhstan"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Құрлық әскерлері.png Kazakh Ground Forces",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kazakh Ground Forces"
               }
             ]
           },

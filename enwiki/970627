@@ -128,7 +128,7 @@
               "text": "In 2019, Tokayev assumed office as the Acting President of Kazakhstan after Nursultan Nazarbayev's resignation."
             },
             {
-              "text": "Tokayev, a member of the ruling Nur Otan party ran in the following snap elections held on 9 June 2019 with the support by Nazarbayev as a nominee from the party, winning with 71% of the vote that was recieved criticism by the international organisations and opposition while facing public scrutiny.",
+              "text": "Tokayev, a member of the ruling Nur Otan party, ran in the following snap elections held on 9 June 2019 with the support of Nazarbayev as the nominee of the party, winning with 71% of the vote, which was received with criticism by international organisations and the opposition, facing public scrutiny.",
               "links": [
                 {
                   "type": "internal",
@@ -151,7 +151,7 @@
               "text": "Tokayev has sought in forming a \"listening state\" in which the government actively takes considerations and views from the public in regards to policymaking."
             },
             {
-              "text": "From 2020, Tokayev had endured the economic downturn and troubles caused by the COVID-19 pandemic and War in Afghanistan and has sought to solve the Kazakhstan's rising inflation, fears of domestic terrorism, illegal migration, drug trafficking, nuclear energy development as well as COVID-19 vaccination rollout.",
+              "text": "From 2020, Tokayev had endured the economic downturn and troubles caused by the COVID-19 pandemic and War in Afghanistan and has sought to solve Kazakhstan's rising inflation, fears of domestic terrorism, illegal migration, drug trafficking, nuclear energy development as well as COVID-19 vaccination rollout.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
@@ -167,6 +167,16 @@
                   "text": "COVID-19 vaccination rollout",
                   "type": "internal",
                   "page": "COVID-19 vaccination in Kazakhstan"
+                }
+              ]
+            },
+            {
+              "text": "In 2022, he sacked the entirety of the Kazakh cabinet following the ongoing Kazakh protests that started on the 2nd of January.",
+              "links": [
+                {
+                  "text": "ongoing Kazakh protests",
+                  "type": "internal",
+                  "page": "2022 Kazakh protests"
                 }
               ]
             }
@@ -213,6 +223,10 @@
           "template": "family name hatnote"
         },
         {
+          "date": "January 2022",
+          "template": "current event"
+        },
+        {
           "df": "y",
           "year": "1953",
           "month": "5",
@@ -234,7 +248,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Qаsym-Jomаrt Тoqаev"
+            "text": "Kassym-Jomart Tokayev"
           },
           "native_name": {
             "text": "Қасым-Жомарт Тоқаев"
@@ -243,10 +257,10 @@
             "text": "kz"
           },
           "image": {
-            "text": "Kassym-Jomart Tokayev (2020-02-01).jpg"
+            "text": "Касым-Жомарт Токаев (28-09-2021) (cropped).jpg"
           },
           "caption": {
-            "text": "Tokayev in 2020"
+            "text": "Tokayev in 2021"
           },
           "office": {
             "text": "2nd President of Kazakhstan",
@@ -258,16 +272,41 @@
             ]
           },
           "term_start": {
-            "text": "20 March 2019\nActing: 20 March 2019 – 12 June 2019"
+            "text": "20 March 2019"
           },
-          "primeminister1": {
-            "text": "Askar Mamin",
+          "primeminister": {
+            "text": "Askar Mamin Alihan Smaiylov (acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Askar Mamin"
+              },
+              {
+                "type": "internal",
+                "page": "Alihan Smaiylov"
               }
             ]
+          },
+          "predecessor": {
+            "text": "Nursultan Nazarbayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nursultan Nazarbayev"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairman of the Security Council of Kazakhstan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Security Council of Kazakhstan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 January 2022"
           },
           "predecessor1": {
             "text": "Nursultan Nazarbayev",
@@ -729,9 +768,6 @@
                 "page": "Nadezhda Tokayeva"
               }
             ]
-          },
-          "partner": {
-            "text": "Danny Nakamura"
           },
           "children": {
             "text": "1",
