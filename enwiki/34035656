@@ -104,11 +104,15 @@
             "text": "Chairman"
           },
           "1namedata": {
-            "text": "Nursultan Nazarbayev",
+            "text": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
             "links": [
               {
                 "type": "internal",
                 "page": "Nursultan Nazarbayev"
+              },
+              {
+                "type": "internal",
+                "page": "Kassym-Jomart Tokayev"
               }
             ]
           },
