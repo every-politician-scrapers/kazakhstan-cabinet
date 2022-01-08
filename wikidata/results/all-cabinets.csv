@@ -1,5 +1,11 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q96419330,Serik Akhmetov Cabinet,2012-09-24,11,,,2014-04-02,11,,,Q21686038,Cabinet of Kazakhstan,,,Q96418414,First Massimov Cabinet,Q16632326,Second Massimov Cabinet,,,,
-,Q16632326,Second Massimov Cabinet,2014-04-02,11,,,2016-09-08,11,,,Q21686038,Cabinet of Kazakhstan,,,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet
-,Q26877833,Sagintayev Cabinet,2016-09-09,11,,,2019-02-21,11,,,Q21686038,Cabinet of Kazakhstan,,,Q16632326,Second Massimov Cabinet,Q63144712,Mamin Cabinet,Q16632326,Second Massimov Cabinet,,
-,Q63144712,Mamin Cabinet,2019-02-25,11,,,,,,,Q21686038,Cabinet of Kazakhstan,,,Q26877833,Sagintayev Cabinet,,,Q26877833,Sagintayev Cabinet,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q4429772,Tereshchenko Cabinet,1991-10-14,11,,,1994-10-12,11,,,,,,,,,,
+,Q104850303,Balgimbayev Cabinet,1997-10-10,11,,,1999-10-01,11,,,,,Q96419550,Tokayev Cabinet,,,,
+,Q96419550,Tokayev Cabinet,1999-10-12,11,,,2002-01-28,11,,,Q104850303,Balgimbayev Cabinet,Q96419463,Tasmagambetov Cabinet,,,,
+,Q96419463,Tasmagambetov Cabinet,2002-01-28,11,,,2003-06-16,11,,,Q96419550,Tokayev Cabinet,Q96418274,Daniyal Akhmetov Cabinet,,,,
+,Q96418274,Daniyal Akhmetov Cabinet,2003-06-13,11,,,2007-01-08,11,,,Q96419463,Tasmagambetov Cabinet,Q96418414,First Massimov Cabinet,,,,
+,Q96418414,First Massimov Cabinet,2007-01-10,11,,,2012-09-24,11,,,Q96418274,Daniyal Akhmetov Cabinet,Q96419330,Serik Akhmetov Cabinet,,,,
+,Q96419330,Serik Akhmetov Cabinet,2012-09-24,11,,,2014-04-02,11,,,Q96418414,First Massimov Cabinet,Q16632326,Second Massimov Cabinet,,,,
+,Q16632326,Second Massimov Cabinet,2014-04-02,11,,,2016-09-08,11,,,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet,Q96419330,Serik Akhmetov Cabinet,Q26877833,Sagintayev Cabinet
+,Q26877833,Sagintayev Cabinet,2016-09-09,11,,,2019-02-21,11,,,Q16632326,Second Massimov Cabinet,Q63144712,Mamin Cabinet,Q16632326,Second Massimov Cabinet,,
+,Q63144712,Mamin Cabinet,2019-02-25,11,,,,,,,Q26877833,Sagintayev Cabinet,,,Q26877833,Sagintayev Cabinet,,
