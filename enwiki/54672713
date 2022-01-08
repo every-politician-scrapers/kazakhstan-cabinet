@@ -85,10 +85,10 @@
             "text": "BAL 0695-1200 (cropped).jpg"
           },
           "office": {
-            "text": "Minister of The Army Defence Force",
+            "text": "Minister of Defence",
             "links": [
               {
-                "text": "Minister of The Army Defence Force ",
+                "text": "Minister of Defence",
                 "type": "internal",
                 "page": "Ministry of Defense (Kazakhstan)"
               }
@@ -130,7 +130,7 @@
               {
                 "text": "Chief of the General Staff",
                 "type": "internal",
-                "page": "Chief of The Air Force (Kazakhstan)"
+                "page": "Chief of the General Staff (Kazakhstan)"
               }
             ]
           },
