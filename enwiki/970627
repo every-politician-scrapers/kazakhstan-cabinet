@@ -21,12 +21,12 @@
         {
           "sentences": [
             {
-              "text": "Kassym-Jomart Kemelevich Tokayev (Касым-Жомарт Кемелевич Токаев, ; born 17 May 1953) is a Kazakhstani politician and diplomat who is currently serving as the President of Kazakhstan since 20 March 2019.",
+              "text": "Kassym-Jomart Kemelevich Tokayev (, Касым-Жомарт Кемелевич Токаев born 17 May 1953) is a Kazakh politician and diplomat who is currently serving as the President of Kazakhstan since 12 June 2019.",
               "links": [
                 {
-                  "text": "Kazakhstani",
+                  "text": "Kazakh",
                   "type": "internal",
-                  "page": "Kazakhstan"
+                  "page": "Kazakhs"
                 },
                 {
                   "type": "internal",
@@ -40,7 +40,7 @@
               }
             },
             {
-              "text": "He succeeded Nursultan Nazarbayev, who resigned on 19 March 2019 after 29 years in office.",
+              "text": "He became acting president on 20 March 2019 due to the resignation of Nursultan Nazarbayev, who resigned on 19 March 2019 after 29 years in office.",
               "links": [
                 {
                   "type": "internal",
@@ -205,8 +205,12 @@
       ],
       "templates": [
         {
-          "description": "President of Kazakhstan since 2019",
+          "description": "2nd president of Kazakhstan",
           "template": "short description"
+        },
+        {
+          "small": "yes",
+          "template": "pp-protected"
         },
         {
           "date": "April 2019",
@@ -260,7 +264,7 @@
             "text": "Касым-Жомарт Токаев (28-09-2021) (cropped 3).jpg"
           },
           "caption": {
-            "text": "Tokayev in 2021"
+            "text": "Tokayev in September 2021"
           },
           "office": {
             "text": "2nd President of Kazakhstan",
@@ -379,9 +383,10 @@
             "text": "15 April 2011"
           },
           "deputy3": {
-            "text": "Muhambet Kopeev\nAleksandr Sudin",
+            "text": "Muhammed Kopeev\nAleksandr Sudin",
             "links": [
               {
+                "text": "Muhammed Kopeev",
                 "type": "internal",
                 "page": "Muhambet Kopeev"
               },
