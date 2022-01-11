@@ -21,13 +21,8 @@
         {
           "sentences": [
             {
-              "text": "Kassym-Jomart Kemelevich Tokayev (, Касым-Жомарт Кемелевич Токаев born 17 May 1953) is a Kazakh politician and diplomat who is currently serving as the President of Kazakhstan since 12 June 2019.",
+              "text": "Kassym-Jomart Kemelevich Tokayev (, Касым-Жомарт Кемелевич Токаев born 17 May 1953) is a Kazakhstani politician and diplomat who is currently serving as the President of Kazakhstan since 12 June 2019.",
               "links": [
-                {
-                  "text": "Kazakh",
-                  "type": "internal",
-                  "page": "Kazakhs"
-                },
                 {
                   "type": "internal",
                   "page": "President of Kazakhstan"
@@ -225,12 +220,6 @@
           "template": "family name hatnote"
         },
         {
-          "list": [
-            "Acting from 20 March 2019"
-          ],
-          "template": "notetag"
-        },
-        {
           "df": "y",
           "year": "1953",
           "month": "5",
@@ -258,7 +247,7 @@
             "text": "Қасым-Жомарт Тоқаев"
           },
           "native_name_lang": {
-            "text": "kz"
+            "text": "kk"
           },
           "image": {
             "text": "Касым-Жомарт Токаев (28-09-2021) (cropped 3).jpg"
@@ -276,7 +265,7 @@
             ]
           },
           "term_start": {
-            "text": "12 June 2019"
+            "text": "20 March 2019"
           },
           "primeminister": {
             "text": "Askar Mamin Alihan Smaiylov (acting)",
