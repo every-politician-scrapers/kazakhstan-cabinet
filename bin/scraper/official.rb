@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      noko.parent.css('.card-footer strong').text.split('-').map(&:tidy)
+      noko.parent.css('.card-footer strong').text.split(/[-–]/).map(&:tidy)
     end
   end
 
