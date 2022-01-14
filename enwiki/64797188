@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Alihan Ashanuly Smaiylov (Әлихан Асқанұлы Смайылов; born 18 December 1972) is a Kazakh politician who is serving as acting Prime Minister of Kazakhstan.",
+              "text": "Alikhan Askhanuly Smailov (Әлихан Асханұлы Смайылов; born 18 December 1972) is a Kazakh politician who is serving as Prime Minister of Kazakhstan.",
               "links": [
                 {
                   "type": "internal",
@@ -25,7 +25,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Alihan Ashanuly Smaiylov"
+                  "Alikhan Askhanuly Smailov"
                 ]
               }
             },
@@ -53,12 +53,17 @@
               ]
             },
             {
-              "text": "Smaiylov has been nominated as the new prime minister of Kazakhstan by the country's president following the 2022 Kazakh protest s.",
+              "text": "Smaiylov was nominated as the new prime minister of Kazakhstan by the country's president following the 2022 Kazakh protest s. His candidacy was unanimously approved by the country's parliament.",
               "links": [
                 {
                   "text": "2022 Kazakh protest",
                   "type": "internal",
                   "page": "2022 Kazakh protests"
+                },
+                {
+                  "text": "country's parliament",
+                  "type": "internal",
+                  "page": "Parliament of Kazakhstan"
                 }
               ]
             }
@@ -67,7 +72,7 @@
       ],
       "templates": [
         {
-          "description": "Acting Prime Minister of Kazakhstan since 2022",
+          "description": "Prime Minister of Kazakhstan",
           "template": "short description"
         },
         {
@@ -99,7 +104,7 @@
             "text": "Smaiylov in 2019"
           },
           "office": {
-            "text": "Acting Prime Minister of Kazakhstan",
+            "text": "11th Prime Minister of Kazakhstan",
             "links": [
               {
                 "type": "internal",
@@ -121,6 +126,15 @@
           },
           "1blankname": {
             "text": "First Deputy"
+          },
+          "1namedata": {
+            "text": "Roman Sklyar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roman Sklyar"
+              }
+            ]
           },
           "predecessor": {
             "text": "Askar Mamin",
@@ -161,6 +175,15 @@
               {
                 "type": "internal",
                 "page": "Askar Mamin"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Roman Sklyar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roman Sklyar"
               }
             ]
           },

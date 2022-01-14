@@ -11,7 +11,8 @@
     "Presidents of Kazakhstan",
     "Government ministers of Kazakhstan",
     "Foreign ministers of Kazakhstan",
-    "Kazakhstani Muslims"
+    "Kazakhstani Muslims",
+    "Recipients of the Order of Prince Yaroslav the Wise, 3rd class"
   ],
   "sections": [
     {
@@ -21,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Kassym-Jomart Kemelevich Tokayev (, Касым-Жомарт Кемелевич Токаев born 17 May 1953) is a Kazakhstani politician and diplomat who is currently serving as the President of Kazakhstan since 12 June 2019.",
+              "text": "Kassym-Jomart Kemelevich Tokayev (, Касым-Жомарт Кемелевич Токаев born 17 May 1953) is a Kazakh politician and diplomat who is currently serving as the President of Kazakhstan since 12 June 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -178,7 +179,7 @@
         {
           "sentences": [
             {
-              "text": "Since becoming president, Tokayev's political influence and role in Kazakhstan had steadily grown apart from Nazarbayev as he assumed various other powerful postitions which were previously held by Nazarbayev."
+              "text": "Since becoming president, Tokayev's political influence and role in Kazakhstan had steadily grown apart from Nazarbayev as he assumed various other powerful positions which were previously held by Nazarbayev."
             },
             {
               "text": "While managing to maintain the country's stability, ensuring political transition, and enacting new reforms, Tokayev's governance has remained authoritarian with human rights abuses.",
@@ -268,7 +269,7 @@
             "text": "20 March 2019"
           },
           "primeminister": {
-            "text": "Askar Mamin Alihan Smaiylov (acting)",
+            "text": "Askar Mamin Alihan Smaiylov",
             "links": [
               {
                 "type": "internal",
