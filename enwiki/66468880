@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Aset Armanūly Irgaliyev (Әсет Арманұлы Ерғалиев; born 18 June 1986) is the Minister of the National Economy of the Republic of Kazakhstan from 18 January 2021.",
+              "text": "Aset Armanūly Irgaliyev (Әсет Арманұлы Ерғалиев; born 18 June 1986) was the Minister of the National Economy of the Republic of Kazakhstan 18 January 2021 until 5 January 2022.",
               "links": [
                 {
                   "text": "National Economy of the Republic of Kazakhstan",
@@ -83,6 +83,9 @@
           "term_start": {
             "text": "18 January 2021"
           },
+          "term_end": {
+            "text": "5 January 2022"
+          },
           "president": {
             "text": "Kassym-Jomart Tokayev",
             "links": [
@@ -107,6 +110,15 @@
               {
                 "type": "internal",
                 "page": "Ruslan Dälenov"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Alibek Kuantyrov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alibek Kuantyrov"
               }
             ]
           },

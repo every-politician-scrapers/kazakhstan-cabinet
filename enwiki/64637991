@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Marat Bakytzhanuly Beketayev (born 29 August 1977) is a Kazakh politician who's serving as the Minister of Justice since 2016.",
+              "text": "Marat Bakytzhanuly Beketayev (born 29 August 1977) is a Kazakh politician who served as the Minister of Justice from 2016 to 2022.",
               "formatting": {
                 "bold": [
                   "Marat Bakytzhanuly Beketayev"
@@ -71,6 +71,9 @@
           "term_start": {
             "text": "13 September 2016"
           },
+          "term_end": {
+            "text": "5 January 2022"
+          },
           "president": {
             "text": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
             "links": [
@@ -103,6 +106,15 @@
               {
                 "type": "internal",
                 "page": "Berik Imashev"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Yerlan Turgumbayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerlan Turgumbayev"
               }
             ]
           },
