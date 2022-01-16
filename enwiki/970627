@@ -205,10 +205,6 @@
           "template": "short description"
         },
         {
-          "small": "yes",
-          "template": "pp-protected"
-        },
-        {
           "date": "April 2019",
           "template": "use dmy dates"
         },
