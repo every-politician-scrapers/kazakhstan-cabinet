@@ -217,6 +217,11 @@
           "template": "family name hatnote"
         },
         {
+          "1": "Askar Mamin\n\nAlihan Smaiylov",
+          "title": "See list",
+          "template": "list collapsed"
+        },
+        {
           "df": "y",
           "year": "1953",
           "month": "5",
@@ -263,19 +268,6 @@
           },
           "term_start": {
             "text": "20 March 2019"
-          },
-          "primeminister": {
-            "text": "Askar Mamin Alihan Smaiylov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              },
-              {
-                "type": "internal",
-                "page": "Alihan Smaiylov"
-              }
-            ]
           },
           "predecessor": {
             "text": "Nursultan Nazarbayev",
