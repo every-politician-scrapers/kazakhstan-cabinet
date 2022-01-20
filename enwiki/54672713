@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Murat Käribaiūly Bektanov (Мұрат Кәрібайұлы Бектанов) is a Kazakh military leader and the current Minister of Defence.",
+              "text": "Murat Käribaiūly Bektanov (Мұрат Кәрібайұлы Бектанов) is a Kazakh military leader and was the Minister of Defence.",
               "links": [
                 {
                   "text": "Minister of Defence",
@@ -256,6 +256,9 @@
                 "page": "Lieutenant General"
               }
             ]
+          },
+          "termend": {
+            "text": "19 January 2022"
           }
         }
       ]
