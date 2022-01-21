@@ -1,14 +1,7 @@
 @@,itemlabel,item,startdate,enddate
 ---,Kairgaly Baygaliyev,Q108443085,1953,1955
 +++,Toleutay Suleymenov,,1991-12,1994
-+++,Kassym-Jomart Tokayev,Q200881,1994,1999
-+++,Kanat Saudabayev,Q1856100,1994,1994
-+++,Erlan Idrisov,Q58203,1999,2002
-+++,Kassym-Jomart Tokayev,Q200881,2003-06,2007-01
-+++,Marat Tazhin,Q1377798,2007-01-11,2009-09-04
-+++,Kanat Saudabayev,Q1856100,2009-09-04,2011-04-11
-+++,Yerzhan Kazykhanov,Q166846,2011-04-11,2012-09-24
-+++,Erlan Idrisov,Q58203,2012-09-28,2016-12-28
-+++,Kairat Abdrakhmanov,Q1721851,2016-12-28,2018-12-26
+->,Erlan Idrissov->Erlan Idrisov,Q58203,1999,2002
+->,Erlan Idrissov->Erlan Idrisov,Q58203,2012-09-28,2016-12-28
 ->,Beibut Bakirovich Atamkulov->Beibut Atamkulov,Q4072002,2018-12-26,2019-09-18
 ->,Mukhtar Tleuberdi,Q70254110,2019-09-08->2019-09-18,
