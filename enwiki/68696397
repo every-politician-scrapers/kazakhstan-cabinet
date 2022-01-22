@@ -38,6 +38,10 @@
       ],
       "templates": [
         {
+          "description": "Kazakh politician",
+          "template": "short description"
+        },
+        {
           "year": "1972",
           "month": "10",
           "day": "14",
