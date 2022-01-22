@@ -199,8 +199,9 @@
 
       </nav>
 
-      <form class="header__search">
-        <input type="search" name="Search" placeholder="Search" class="header__search-input" />
+      <form class="header__search" method="POST" action="/en/search">
+      <input type="hidden" name="_token" value="ixxftQrsFGzcfthlPebcvqL2e73K5bAmrFr9npLU">
+        <input type="text" name="q" id="q" placeholder="Search" class="header__search-input" />
 
         <button type="submit" class="header__search-button">
           <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -233,9 +234,10 @@
                   </div>
       </div>
 
-      <form class="header__search">
+      <form class="header__search" method="POST" action="/en/search">
+      <input type="hidden" name="_token" value="ixxftQrsFGzcfthlPebcvqL2e73K5bAmrFr9npLU">
         <div class="header__search-container">
-          <input type="search" name="Search" placeholder="Search" class="header__search-input" />
+          <input type="text" name="q" id="q" placeholder="Search" class="header__search-input" />
 
           <button type="submit" class="header__search-button">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
