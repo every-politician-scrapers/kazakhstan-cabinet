@@ -655,19 +655,40 @@
               }
             ]
           },
-          "order12": {
-            "text": "11th"
-          },
           "office12": {
-            "text": "United Nations Office at Geneva"
+            "text": "Chairman of Nur Otan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nur Otan"
+              }
+            ]
           },
           "term_start12": {
-            "text": "12 March 2011"
-          },
-          "term_end12": {
-            "text": "16 October 2013"
+            "text": "23 November 2021"
           },
           "predecessor12": {
+            "text": "Nursultan Nazarbayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nursultan Nazarbayev"
+              }
+            ]
+          },
+          "order13": {
+            "text": "11th"
+          },
+          "office13": {
+            "text": "United Nations Office at Geneva"
+          },
+          "term_start13": {
+            "text": "12 March 2011"
+          },
+          "term_end13": {
+            "text": "16 October 2013"
+          },
+          "predecessor13": {
             "text": "Sergei Ordzhonikidze",
             "links": [
               {
@@ -676,7 +697,7 @@
               }
             ]
           },
-          "successor12": {
+          "successor13": {
             "text": "Michael Møller",
             "links": [
               {
