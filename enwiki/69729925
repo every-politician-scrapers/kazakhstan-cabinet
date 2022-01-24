@@ -61,7 +61,7 @@
               "text": "The membership of the cabinet was announced by the president on 11 January 2022."
             },
             {
-              "text": "Only eight out the 21 ministers of the previous cabinet were replaced."
+              "text": "Eight of the 21 ministers of the previous cabinet were replaced."
             }
           ]
         }
@@ -161,6 +161,15 @@
     {
       "title": "Composition",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Members of The Cabinet are:"
+            }
+          ]
+        }
+      ],
       "tables": [
         [
           {
@@ -982,6 +991,17 @@
             }
           }
         ]
+      ],
+      "references": [
+        {
+          "title": "Government Composition",
+          "url": "https://primeminister.kz/en/government/composition",
+          "access-date": "2022-01-12",
+          "website": "primeminister.kz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
       ]
     },
     {
