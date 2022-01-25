@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Erlan Zamanbekuly Turgymbaev Ерлан Заманбекұлы Тұрғымбаев; born 14 August 1962) is a Kazakh politician who's serving as a Minister of Internal Affairs since 12 February 2019.",
+              "text": "Erlan Zamanbekuly Turgymbaev Ерлан Заманбекұлы Тұрғымбаев, Erlan Zamanbekūly Tūrğymbaev; born 14 August 1962) is a Kazakh politician who's serving as a Minister of Internal Affairs since 12 February 2019.",
               "links": [
                 {
                   "text": "Minister of Internal Affairs",
@@ -27,6 +27,9 @@
               "formatting": {
                 "bold": [
                   "Erlan Zamanbekuly Turgymbaev"
+                ],
+                "italic": [
+                  "Erlan Zamanbekūly Tūrğymbaev"
                 ]
               }
             }

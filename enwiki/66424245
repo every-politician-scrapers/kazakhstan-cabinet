@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Serik Zhmbyluly Shapkenov (Серік Жамбылұлы Шапкенов; born 29 July 1979) is a Kazakh politician who serving as a Minister of Labour and Social Protection since 18 January 2021.",
+              "text": "Serik Zhmbyluly Shapkenov (Серік Жамбылұлы Шапкенов, Serık Jambylūly Şapkenov; born 29 July 1979) is a Kazakh politician who serving as a Minister of Labour and Social Protection since 18 January 2021.",
               "links": [
                 {
                   "text": "Minister of Labour and Social Protection",
@@ -27,6 +27,9 @@
               "formatting": {
                 "bold": [
                   "Serik Zhmbyluly Shapkenov"
+                ],
+                "italic": [
+                  "Serık Jambylūly Şapkenov"
                 ]
               }
             },

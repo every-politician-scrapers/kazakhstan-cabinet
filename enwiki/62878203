@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Altai Seidırūly Kölgınov (Алтай Сейдірұлы Көлгінов; born 15 January 1978) is a Kazakh politician who's currently serving as the äkim of Nur-Sultan since June 2019.",
+              "text": "Altai Seidırūly Kölgınov (Алтай Сейдірұлы Көлгінов, Altai Seidırūly Kölgınov; born 15 January 1978) is a Kazakh politician who's currently serving as the äkim of Nur-Sultan since June 2019.",
               "links": [
                 {
                   "text": "äkim of Nur-Sultan",
@@ -25,6 +25,9 @@
               ],
               "formatting": {
                 "bold": [
+                  "Altai Seidırūly Kölgınov"
+                ],
+                "italic": [
                   "Altai Seidırūly Kölgınov"
                 ]
               }

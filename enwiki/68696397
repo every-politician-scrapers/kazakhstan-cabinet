@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Serıkqali Amanğaliūly Brekeşev (Серікқали Аманғалиұлы Брекешев; born 14 October 1972) is a Kazakh politician who's serving as a Minister of Ecology, Geology and Natural Resources since 10 September 2021 in which he served as its Vice Minister from March 2020.",
+              "text": "Serıkqali Amanğaliūly Brekeşev (Серікқали Аманғалиұлы Брекешев, Serıkqali Amanğaliūly Brekeşev; born 14 October 1972) is a Kazakh politician who's serving as a Minister of Ecology, Geology and Natural Resources since 10 September 2021 in which he served as its Vice Minister from March 2020.",
               "links": [
                 {
                   "text": "Minister of Ecology, Geology and Natural Resources",
@@ -26,6 +26,9 @@
               ],
               "formatting": {
                 "bold": [
+                  "Serıkqali Amanğaliūly Brekeşev"
+                ],
+                "italic": [
                   "Serıkqali Amanğaliūly Brekeşev"
                 ]
               }

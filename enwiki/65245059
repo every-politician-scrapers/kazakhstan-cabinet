@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Ashat Qanatuly Aimagambetov (Асхат Қанатұлы Аймағамбетов; born 14 June 1982) is a Kazakh politician who is serving as a Minister of Education and Science since June 2019.",
+              "text": "Ashat Qanatuly Aimagambetov (Асхат Қанатұлы Аймағамбетов, Ashat Qanatūly Aimağambetov; born 14 June 1982) is a Kazakh politician who is serving as a Minister of Education and Science since June 2019.",
               "links": [
                 {
                   "text": "Minister of Education and Science",
@@ -26,6 +26,9 @@
               "formatting": {
                 "bold": [
                   "Ashat Qanatuly Aimagambetov"
+                ],
+                "italic": [
+                  "Ashat Qanatūly Aimağambetov"
                 ]
               }
             }

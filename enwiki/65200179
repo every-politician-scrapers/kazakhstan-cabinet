@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Bağdat Batyrbekuly Musin (Бағдат Батырбекұлы Мусин; born 3 March 1983) is a Kazakh politician that is serving as the Minister of Digital Development, Innovation and Aerospace Industry since 2 September 2020.",
+              "text": "Bağdat Batyrbekuly Musin (Бағдат Батырбекұлы Мусин, Bağdat Batyrbekūly Musin; born 3 March 1983) is a Kazakh politician that is serving as the Minister of Digital Development, Innovation and Aerospace Industry since 2 September 2020.",
               "links": [
                 {
                   "text": "Minister of Digital Development, Innovation and Aerospace Industry",
@@ -26,6 +26,9 @@
               "formatting": {
                 "bold": [
                   "Bağdat Batyrbekuly Musin"
+                ],
+                "italic": [
+                  "Bağdat Batyrbekūly Musin"
                 ]
               }
             }
