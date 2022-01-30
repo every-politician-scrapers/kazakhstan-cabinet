@@ -196,12 +196,17 @@
             ]
           },
           "nationality": {
-            "text": "Kazakh",
+            "text": "Kazakh (Russian origin)",
             "links": [
               {
                 "text": "Kazakh",
                 "type": "internal",
                 "page": "Kazakhs"
+              },
+              {
+                "text": "Russian origin",
+                "type": "internal",
+                "page": "Russians in Kazakhstan"
               }
             ]
           },
