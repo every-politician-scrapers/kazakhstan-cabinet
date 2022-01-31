@@ -468,6 +468,41 @@
           },
           {
             "Functions": {
+              "text": "Ministry of Defence Қорғаныс министрі",
+              "links": [
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defense (Kazakhstan)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  " Қорғаныс министрі "
+                ]
+              }
+            },
+            "Image": {
+              "text": "GK-NG-2.jpg"
+            },
+            "Holder": {
+              "text": "Ruslan Jaksylykov",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ruslan Jaksylykov"
+                }
+              ]
+            },
+            "Start": {
+              "text": "19 January 2022"
+            },
+            "End": {
+              "text": "Present"
+            }
+          },
+          {
+            "Functions": {
               "text": "Ministry of Internal Affairs Ішкі істер министрі",
               "links": [
                 {
