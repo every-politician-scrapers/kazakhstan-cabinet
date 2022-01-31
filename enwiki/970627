@@ -249,6 +249,16 @@
       ],
       "infoboxes": [
         {
+          "title": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Kassym-Jomart Tokayev"
           },
@@ -259,10 +269,7 @@
             "text": "kk"
           },
           "image": {
-            "text": "Касым-Жомарт Токаев (28-09-2021) (cropped 3).jpg"
-          },
-          "caption": {
-            "text": "Tokayev in September 2021"
+            "text": "Kassym-Jomart Tokayev (2020-02-01).jpg"
           },
           "office": {
             "text": "2nd President of Kazakhstan",
