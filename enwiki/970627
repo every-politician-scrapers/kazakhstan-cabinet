@@ -236,6 +236,11 @@
           "template": "marriage"
         },
         {
+          "spouse": "Danny Nakamura",
+          "from": "2021",
+          "template": "marriage"
+        },
+        {
           "list": [
             "Қасым-Жомарт Кемелұлы Тоқаев",
             "Qasym-Jomart Kemelūly Toqayev"
@@ -249,16 +254,6 @@
       ],
       "infoboxes": [
         {
-          "title": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Kassym-Jomart Tokayev"
           },
@@ -269,7 +264,10 @@
             "text": "kk"
           },
           "image": {
-            "text": "Kassym-Jomart Tokayev (2020-02-01).jpg"
+            "text": "Касым-Жомарт Токаев (28-09-2021) (cropped 3).jpg"
+          },
+          "caption": {
+            "text": "Tokayev in September 2021"
           },
           "office": {
             "text": "2nd President of Kazakhstan",
@@ -784,6 +782,9 @@
           "children": {
             "text": "1",
             "number": 1
+          },
+          "parents": {
+            "text": "Danny Nakamura (m. 2021)"
           },
           "residence": {
             "text": "Ak Orda Presidential Palace",

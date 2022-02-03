@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Erbolat Askarbekuly Dosaev (Erbolat Asqarbekuly Dosaev; born 21 May 1970 ) is a Kazakh politician who served as a Deputy Prime Minister from 29 August 2017 to 25 February 2019.",
+              "text": "Erbolat Asqarbekūly Dosaev (Ерболат Асқарбекұлы Досаев; born 21 May 1970 ) is a Kazakh politician who served as a Deputy Prime Minister from 29 August 2017 to 25 February 2019.",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -29,12 +29,12 @@
               ],
               "formatting": {
                 "bold": [
-                  "Erbolat Askarbekuly Dosaev"
+                  "Erbolat Asqarbekūly Dosaev"
                 ]
               }
             },
             {
-              "text": "Heserved as the Minister of Finance from 16 June 2003 head of the Agency for Regulating Natural Monopolies, and later as the Health Minister.",
+              "text": "He served as the Minister of Finance from 16 June 2003 head of the Agency for Regulating Natural Monopolies, and later as the Health Minister.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -84,16 +84,14 @@
           "name": {
             "text": "Erbolat Dosaev"
           },
+          "native_name": {
+            "text": "Ерболат Досаев"
+          },
           "image": {
-            "text": "Erbolat Dosaev (06.2013) (cropped).png"
+            "text": "Erbolat Dosaev (2018-05-10) (cropped).jpg"
           },
           "caption": {
-            "text": "Erbolat Dosaev picture",
-            "formatting": {
-              "italic": [
-                "Erbolat Dosaev picture"
-              ]
-            }
+            "text": "Dosaev in 2018"
           },
           "office": {
             "text": "Deputy Prime Minister of Kazakhstan",
@@ -290,6 +288,28 @@
             ]
           },
           "office5": {
+            "text": "Äkim of Almaty",
+            "links": [
+              {
+                "text": "Äkim of Almaty",
+                "type": "internal",
+                "page": "Äkim of Almaty"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "31 January 2022"
+          },
+          "predecessor5": {
+            "text": "Bakhytzhan Sagintayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bakhytzhan Sagintayev"
+              }
+            ]
+          },
+          "office6": {
             "text": "Chairman of National Bank of Kazakhstan",
             "links": [
               {
@@ -298,10 +318,13 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "25 February 2019"
           },
-          "president5": {
+          "term_end6": {
+            "text": "31 January 2022"
+          },
+          "president6": {
             "text": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
             "links": [
               {
@@ -314,7 +337,7 @@
               }
             ]
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "Daniyar Akishev",
             "links": [
               {
@@ -363,6 +386,15 @@
           "children": {
             "text": "2",
             "number": 2
+          },
+          "party": {
+            "text": "Nur Otan (2012–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nur Otan"
+              }
+            ]
           }
         }
       ]
