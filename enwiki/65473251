@@ -81,6 +81,40 @@
             "text": "Qoşanov in 2018"
           },
           "office": {
+            "text": "10th Chair of the Mazhilis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chair of the Mazhilis"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 February 2022"
+          },
+          "deputy": {
+            "text": "Pavel Kazantsev Balaim Kesebaeva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pavel Kazantsev"
+              },
+              {
+                "type": "internal",
+                "page": "Balaim Kesebaeva"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Nurlan Nigmatulin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nurlan Nigmatulin"
+              }
+            ]
+          },
+          "office2": {
             "text": "Head of the Presidential Administration of Kazakhstan",
             "links": [
               {
@@ -90,10 +124,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start2": {
             "text": "18 September 2019"
           },
-          "president": {
+          "term_end2": {
+            "text": "1 February 2022"
+          },
+          "president2": {
             "text": "Nursultan Nazarbayev",
             "links": [
               {
@@ -102,10 +139,10 @@
               }
             ]
           },
-          "1blankname": {
+          "1blankname2": {
             "text": "First Deputy"
           },
-          "1namedata": {
+          "1namedata2": {
             "text": "Mäulen Äşimbaev Dauren Abaev",
             "links": [
               {
@@ -118,7 +155,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Krymbek Kusherbayev",
             "links": [
               {
@@ -127,7 +164,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Head of the Prime Minister's Office",
             "links": [
               {
@@ -137,13 +174,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "2 February 2012"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "14 March 2017"
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Karim Massimov Serik Akhmetov Bakhytzhan Sagintayev",
             "links": [
               {
@@ -160,7 +197,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Krymbek Kusherbayev",
             "links": [
               {
@@ -169,7 +206,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Gabidolla Abdirahymov",
             "links": [
               {
@@ -178,22 +215,74 @@
               }
             ]
           },
-          "office3": {
-            "text": "Member of the Senate of Kazakhstan",
+          "office4": {
+            "text": "Member of the Senate",
             "links": [
               {
+                "text": "Senate",
                 "type": "internal",
                 "page": "Senate of Kazakhstan"
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "5 December 1995"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "February 1999"
           },
-          "office4": {
+          "office5": {
+            "text": "Leader of Nur Otan in the Mazhilis",
+            "links": [
+              {
+                "text": "Leader",
+                "type": "internal",
+                "page": "Parliamentary leader"
+              },
+              {
+                "type": "internal",
+                "page": "Nur Otan"
+              },
+              {
+                "type": "internal",
+                "page": "Mazhilis"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "1 February 2022"
+          },
+          "leader5": {
+            "text": "Kassym-Jomart Tokayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kassym-Jomart Tokayev"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Nurlan Nigmatulin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nurlan Nigmatulin"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Member of the Mazhilis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mazhilis"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "1 February 2022"
+          },
+          "office7": {
             "text": "Äkim of Karaganda Region",
             "links": [
               {
@@ -203,13 +292,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start7": {
             "text": "14 March 2017"
           },
-          "term_end4": {
+          "term_end7": {
             "text": "18 September 2019"
           },
-          "predecessor4": {
+          "predecessor7": {
             "text": "Nurmuhambet Abdibekov",
             "links": [
               {
@@ -218,7 +307,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor7": {
             "text": "Zhenis Kassymbek",
             "links": [
               {
