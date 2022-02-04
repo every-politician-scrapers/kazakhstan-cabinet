@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Dauren Askerbekuly Abaev (born 18 April 1979) is a Kazakh politician, diplomat, who's currently the First Deputy Head of the Presidential Administration of Kazakhstan.",
+              "text": "Dauren Askerbekuly Abaev (born 18 April 1979) is a Kazakh politician, diplomat, who's the First Deputy Head of the Presidential Administration of Kazakhstan from 2020 to 2022.",
               "formatting": {
                 "bold": [
                   "Dauren Askerbekuly Abaev"
@@ -71,6 +71,9 @@
           "term_start": {
             "text": "4 May 2020"
           },
+          "term_end": {
+            "text": "11 January 2022"
+          },
           "president": {
             "text": "Kassym-Jomart Tokayev",
             "links": [
@@ -86,6 +89,15 @@
               {
                 "type": "internal",
                 "page": "Mäulen Äşimbaev"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Timur Suleimenov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timur Suleimenov"
               }
             ]
           },

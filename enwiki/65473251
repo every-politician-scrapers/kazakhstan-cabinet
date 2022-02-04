@@ -164,6 +164,15 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Murat Nurtileu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Murat Nurtileu"
+              }
+            ]
+          },
           "office3": {
             "text": "Head of the Prime Minister's Office",
             "links": [
