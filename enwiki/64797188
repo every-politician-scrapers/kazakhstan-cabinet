@@ -54,13 +54,18 @@
               ]
             },
             {
-              "text": "Smaiylov was nominated as the new prime minister of Kazakhstan by the country's president following the 2022 Kazakh protest s. His candidacy was unanimously approved by the country's parliament.",
+              "text": "Smaiylov was nominated as the new prime minister of Kazakhstan by the country's president following the 2022 Kazakh protests.",
               "links": [
                 {
-                  "text": "2022 Kazakh protest",
+                  "text": "2022 Kazakh protests",
                   "type": "internal",
                   "page": "2022 Kazakh protests"
-                },
+                }
+              ]
+            },
+            {
+              "text": "His candidacy was unanimously approved by the country's parliament.",
+              "links": [
                 {
                   "text": "country's parliament",
                   "type": "internal",
