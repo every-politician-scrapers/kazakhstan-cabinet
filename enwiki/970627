@@ -49,23 +49,6 @@
         {
           "sentences": [
             {
-              "text": "A graduate of Moscow State Institute of International Relations, Tokayev began his career in 1975 when he worked as diplomat in Singapore and China.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Moscow State Institute of International Relations"
-                },
-                {
-                  "type": "internal",
-                  "page": "Singapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "China"
-                }
-              ]
-            },
-            {
               "text": "In 1992, he became the Deputy Foreign Minister of Kazakhstan, where he was involved on the issues of nuclear disarmament within the former Soviet republics.",
               "links": [
                 {
@@ -103,7 +86,7 @@
               "text": "From 2002, Tokayev served as Foreign Minister, where he continued to play an active role in the field of nuclear non-proliferation."
             },
             {
-              "text": "He then served as the Chairman of the Kazakh Senate from 11 January 2007 to 15 April 2011 and from 16 October 2013 to 19 March 2019 and was the Director-General of the United Nations Office at Geneva from 12 March 2011 to 16 October 2013.",
+              "text": "He was Chairman of the Kazakh Senate from 2007 to 2011 and 2013 to 2019 and was the Director-General of the UN Office at Geneva from 2011 to 2013.",
               "links": [
                 {
                   "text": "Chairman of the Kazakh Senate",
@@ -111,7 +94,7 @@
                   "page": "Senate of Kazakhstan"
                 },
                 {
-                  "text": "Director-General of the United Nations Office at Geneva",
+                  "text": "Director-General of the UN Office at Geneva",
                   "type": "internal",
                   "page": "United Nations Office at Geneva"
                 }
@@ -125,7 +108,7 @@
               "text": "In 2019, Tokayev assumed office as the Acting President of Kazakhstan after Nursultan Nazarbayev's resignation."
             },
             {
-              "text": "Tokayev, a member of the ruling Nur Otan party, ran in the following snap elections held on 9 June 2019 with the support of Nazarbayev as the nominee of the party, winning with 71% of the vote, which was received with criticism by international organisations and the opposition, facing public scrutiny.",
+              "text": "Tokayev, a member of the ruling Nur Otan party, won non-democratic snap elections held on 9 June 2019 with the support of Nazarbayev as the nominee of the party.",
               "links": [
                 {
                   "type": "internal",
@@ -139,7 +122,7 @@
               ]
             },
             {
-              "text": "After being fully sworn to office on 12 June 2019, Tokayev pledged to continue Nazarbayev's policies in the spheres of country's development including social and economic reforms."
+              "text": "After being fully sworn to office on 12 June 2019, Tokayev pledged to continue Nazarbayev's policies."
             },
             {
               "text": "During his presidency, he has enacted several reforms including increasing workers' salaries, reducing corruption, abolishing capital punishment, and decentralizing the local government."
@@ -195,6 +178,9 @@
                   "page": "human rights"
                 }
               ]
+            },
+            {
+              "text": "The 2022 Credit Suisse leaks revealed that the Tokayev family had maintained an elaborate network of secretive offshore wealth assets since at least 1998."
             }
           ]
         }
