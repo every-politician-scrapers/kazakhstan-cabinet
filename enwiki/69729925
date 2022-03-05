@@ -42,9 +42,8 @@
                   "page": "Mamin Cabinet"
                 },
                 {
-                  "text": "Askar Mamin",
                   "type": "internal",
-                  "page": "Alihan Smaiylov"
+                  "page": "Askar Mamin"
                 },
                 {
                   "type": "internal",
@@ -168,13 +167,59 @@
               "text": "Members of The Cabinet are:"
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ministers",
+              "formatting": {
+                "bold": [
+                  "Ministers"
+                ]
+              }
+            }
+          ]
         }
       ],
       "tables": [
         [
           {
-            "Functions": {
-              "text": "Prime Minister Премьер-министр",
+            "col1": {
+              "text": "Portfolio"
+            },
+            "col2": {
+              "text": "Image"
+            },
+            "col3": {
+              "text": "Holder"
+            },
+            "col4": {
+              "text": "Term of office"
+            },
+            "col5": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "Portfolio"
+            },
+            "col2": {
+              "text": "Image"
+            },
+            "col3": {
+              "text": "Holder"
+            },
+            "col4": {
+              "text": "Start"
+            },
+            "col5": {
+              "text": "End"
+            }
+          },
+          {
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Prime Minister Премьер-министр",
               "links": [
                 {
                   "text": "'''Prime Minister'''",
@@ -184,7 +229,6 @@
               ],
               "formatting": {
                 "bold": [
-                  "Премьер-министр",
                   "Prime Minister"
                 ],
                 "italic": [
@@ -192,37 +236,32 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Älihan Smaiylov (2022-01-24) (cropped).jpg"
             },
-            "Holder": {
-              "text": "Alihan Smaiylov",
+            "col3": {
+              "text": "Älihan Smaiylov",
               "links": [
                 {
-                  "text": "'''Alihan Smaiylov'''",
+                  "text": "Älihan Smaiylov",
                   "type": "internal",
-                  "page": "Alihan Smaiylov"
+                  "page": "Älihan Smaiylov"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Alihan Smaiylov"
-                ]
-              }
+              ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "First Deputy Prime Minister Премьер-министрдің бірінші орынбасары",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg First Deputy Премьер-министрдің бірінші орынбасары",
               "links": [
                 {
-                  "text": "'''First Deputy Prime Minister'''",
+                  "text": "'''First Deputy'''",
                   "type": "internal",
                   "page": "First Deputy Prime Minister of Kazakhstan"
                 }
@@ -230,17 +269,17 @@
               "formatting": {
                 "bold": [
                   "Премьер-министрдің бірінші орынбасары",
-                  "First Deputy Prime Minister"
+                  "First Deputy"
                 ],
                 "italic": [
                   "Премьер-министрдің бірінші орынбасары"
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Roman_Sklyar_(2017-09-26)_(cropped).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Roman Sklyar",
               "links": [
                 {
@@ -249,16 +288,16 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Deputy Prime Minister Премьер-Министрдің орынбасары",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Deputy Prime Minister Премьер-Министрдің орынбасары",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -272,10 +311,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Eraly_Tugjanov_(2016-04-06).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Eraly Togjanov",
               "links": [
                 {
@@ -284,16 +323,16 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Deputy Prime Minister Премьер-Министрдің орынбасары",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Deputy Prime Minister Премьер-Министрдің орынбасары",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -307,10 +346,10 @@
                 ]
               }
             },
-            "Image": {
-              "text": ""
+            "col2": {
+              "text": "Mukhtar Tileuberdi (2020-02-02).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Mukhtar Tleuberdi",
               "links": [
                 {
@@ -319,16 +358,16 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Deputy Prime Minister Премьер-Министрдің орынбасары",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Deputy Prime Minister Премьер-Министрдің орынбасары",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -342,10 +381,10 @@
                 ]
               }
             },
-            "Image": {
-              "text": "Bakhyt_Sultanov_(08.2016)_(cropped).png"
+            "col2": {
+              "text": "Бахыт Султанов (16-11-2021).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Bakhyt Sultanov",
               "links": [
                 {
@@ -354,33 +393,26 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Prime Minister's Office Премьер-Министр Кеңсесінің Басшысы",
-              "links": [
-                {
-                  "text": "Prime Minister's Office",
-                  "type": "internal",
-                  "page": "Prime Minister's Office (Kazakhstan)"
-                }
-              ],
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Office Head Кеңсе Басшысы",
               "formatting": {
                 "italic": [
-                  " Премьер-Министр Кеңсесінің Басшысы "
+                  " Кеңсе Басшысы "
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Galymjan Koishibaev",
               "links": [
                 {
@@ -389,19 +421,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Foreign Affairs Сыртқы істер министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Foreign Affairs Сыртқы істер министрі",
               "links": [
                 {
-                  "text": "Ministry of Foreign Affairs",
+                  "text": "Minister of Foreign Affairs",
                   "type": "internal",
                   "page": "Ministry of Foreign Affairs (Kazakhstan)"
                 }
@@ -412,10 +444,10 @@
                 ]
               }
             },
-            "Image": {
-              "text": ""
+            "col2": {
+              "text": "Mukhtar Tileuberdi (2020-02-02).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Mukhtar Tleuberdi",
               "links": [
                 {
@@ -424,19 +456,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Defence Қорғаныс министрі",
+            "col1": {
+              "text": "Symbol of the Kazakh Ministry of Defense.svg Minister of Defence Қорғаныс министрі",
               "links": [
                 {
-                  "text": "Ministry of Defence",
+                  "text": "Minister of Defence",
                   "type": "internal",
                   "page": "Ministry of Defense (Kazakhstan)"
                 }
@@ -447,10 +479,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "BAL_0695-1200_(cropped).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Murat Bektanov",
               "links": [
                 {
@@ -459,19 +491,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "19 January 2022"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Defence Қорғаныс министрі",
+            "col1": {
+              "text": "Symbol of the Kazakh Ministry of Defense.svg Minister of Defence Қорғаныс министрі",
               "links": [
                 {
-                  "text": "Ministry of Defence",
+                  "text": "Minister of Defence",
                   "type": "internal",
                   "page": "Ministry of Defense (Kazakhstan)"
                 }
@@ -482,33 +514,33 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "GK-NG-2.jpg"
             },
-            "Holder": {
-              "text": "Ruslan Jaksylykov",
+            "col3": {
+              "text": "Ruslan Jaqsylyqov",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Ruslan Jaksylykov"
+                  "page": "Ruslan Jaqsylyqov"
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "19 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Internal Affairs Ішкі істер министрі",
+            "col1": {
+              "text": "Logo MVD KZ.jpg Ministry of Internal Affairs Ішкі істер министрі",
               "links": [
                 {
                   "text": "Ministry of Internal Affairs",
                   "type": "internal",
-                  "page": "Ministry of Internal Affairs of Kazakhstan"
+                  "page": "Ministry of Internal Affairs (Kazakhstan)"
                 }
               ],
               "formatting": {
@@ -517,10 +549,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Erlan Turgymbaev",
               "links": [
                 {
@@ -529,19 +561,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Information and Social Development Ақпарат және қоғамдық даму министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Information and Social Development Ақпарат және қоғамдық даму министрі",
               "links": [
                 {
-                  "text": "Ministry of Information and Social Development",
+                  "text": "Minister of Information and Social Development",
                   "type": "internal",
                   "page": "Ministry of Information and Social Development (Kazakhstan)"
                 }
@@ -552,25 +584,25 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
-              "text": "Askar Umarov"
+            "col3": {
+              "text": "Asqar Umarov"
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Agriculture Ауыл шаруашылығы министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Agriculture Ауыл шаруашылығы министрі",
               "links": [
                 {
-                  "text": "Ministry of Agriculture",
+                  "text": "Minister of Agriculture",
                   "type": "internal",
                   "page": "Ministry of Agriculture (Kazakhstan)"
                 }
@@ -581,10 +613,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Erbol Qaraşukeev",
               "links": [
                 {
@@ -593,19 +625,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Justice Әділет министрі",
+            "col1": {
+              "text": "Emblem of the Ministry of Justice of the Republic of Kazakhstan.jpg Minister of Justice Әділет министрі",
               "links": [
                 {
-                  "text": "Ministry of Justice",
+                  "text": "Minister of Justice",
                   "type": "internal",
                   "page": "Ministry of Justice (Kazakhstan)"
                 }
@@ -616,25 +648,25 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
-              "text": "Kanat Mussin"
+            "col3": {
+              "text": "Qanat Musin"
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Education and Science Білім және ғылым министрі",
+            "col1": {
+              "text": "Logotip ministry of education of the Kazakhstan.svg Minister of Education and Science Білім және ғылым министрі",
               "links": [
                 {
-                  "text": "Ministry of Education and Science",
+                  "text": "Minister of Education and Science",
                   "type": "internal",
                   "page": "Ministry of Education and Science (Kazakhstan)"
                 }
@@ -645,10 +677,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Ashat_Aimagambetov_(24112)_(cropped).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Ashat Aimagambetov",
               "links": [
                 {
@@ -657,19 +689,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Healthcare Денсаулық сақтау министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Healthcare Денсаулық сақтау министрі",
               "links": [
                 {
-                  "text": "Ministry of Healthcare",
+                  "text": "Minister of Healthcare",
                   "type": "internal",
                   "page": "Ministry of Healthcare (Kazakhstan)"
                 }
@@ -680,25 +712,25 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
-              "text": "Azhar Giniyat"
+            "col3": {
+              "text": "Ajar Giniat"
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Labour and Social Protection of the Population Еңбек және халықты әлеуметтік қорғау министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Labour and Social Protection of the Population Еңбек және халықты әлеуметтік қорғау министрі",
               "links": [
                 {
-                  "text": "Ministry of Labour and Social Protection of the Population",
+                  "text": "Minister of Labour and Social Protection of the Population",
                   "type": "internal",
                   "page": "Ministry of Labour and Social Protection of the Population (Kazakhstan)"
                 }
@@ -709,10 +741,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Shapkenov_Serik_2021_(cropped_2).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Serik Şapkenov",
               "links": [
                 {
@@ -721,19 +753,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Industry and Infrastructure Development Индустрия және инфрақұрылымдық даму министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Industry and Infrastructure Development Индустрия және инфрақұрылымдық даму министрі",
               "links": [
                 {
-                  "text": "Ministry of Industry and Infrastructure Development",
+                  "text": "Minister of Industry and Infrastructure Development",
                   "type": "internal",
                   "page": "Ministry of Industry and Infrastructure Development (Kazakhstan)"
                 }
@@ -744,25 +776,25 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
-              "text": "Kairbek Uskenbayev"
+            "col3": {
+              "text": "Qaiyrbek Uskenbaev"
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Finance Қаржы министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Finance Қаржы министрі",
               "links": [
                 {
-                  "text": "Ministry of Finance",
+                  "text": "Minister of Finance",
                   "type": "internal",
                   "page": "Ministry of Finance (Kazakhstan)"
                 }
@@ -773,10 +805,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Erulan Jamaubaev",
               "links": [
                 {
@@ -785,19 +817,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Culture and Sports Мәдениет және спорт министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Culture and Sports Мәдениет және спорт министрі",
               "links": [
                 {
-                  "text": "Ministry of Culture and Sports",
+                  "text": "Minister of Culture and Sports",
                   "type": "internal",
                   "page": "Ministry of Culture and Sports (Kazakhstan)"
                 }
@@ -808,25 +840,31 @@
                 ]
               }
             },
-            "Image": {
-              "text": ""
+            "col2": {
+              "text": "Dauren Abaev, 2018 (cropped).jpg"
             },
-            "Holder": {
-              "text": "Dauren Abayev"
+            "col3": {
+              "text": "Dauren Abaev",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dauren Abaev"
+                }
+              ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Trade and Integration Сауда және интеграция министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Trade and Integration Сауда және интеграция министрі",
               "links": [
                 {
-                  "text": "Ministry of Trade and Integration",
+                  "text": "Minister of Trade and Integration",
                   "type": "internal",
                   "page": "Ministry of Trade and Integration (Kazakhstan)"
                 }
@@ -837,10 +875,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Bakhyt_Sultanov_(08.2016)_(cropped).png"
             },
-            "Holder": {
+            "col3": {
               "text": "Bakhyt Sultanov",
               "links": [
                 {
@@ -849,19 +887,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Emergency Situations Төтенше жағдайлар министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Emergency Situations Төтенше жағдайлар министрі",
               "links": [
                 {
-                  "text": "Ministry of Emergency Situations",
+                  "text": "Minister of Emergency Situations",
                   "type": "internal",
                   "page": "Ministry of Emergency Situations (Kazakhstan)"
                 }
@@ -872,10 +910,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Yuri_Ilyin_(29389)_(cropped).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Yuri Ilyin",
               "links": [
                 {
@@ -884,19 +922,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of National Economy Ұлттық экономика министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of National Economy Ұлттық экономика министрі",
               "links": [
                 {
-                  "text": "Ministry of National Economy",
+                  "text": "Minister of National Economy",
                   "type": "internal",
                   "page": "Ministry of National Economy (Kazakhstan)"
                 }
@@ -907,25 +945,25 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Alibek Kuantyrov"
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Digital Development, Innovation and Aerospace Industry Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Digital Development, Innovation and Aerospace Industry Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрі",
               "links": [
                 {
-                  "text": "Ministry of Digital Development, Innovation and Aerospace Industry",
+                  "text": "Minister of Digital Development, Innovation and Aerospace Industry",
                   "type": "internal",
                   "page": "Ministry of Digital Development, Innovation and Aerospace Industry (Kazakhstan)"
                 }
@@ -936,10 +974,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": "Mussin_b_(cropped).jpg"
             },
-            "Holder": {
+            "col3": {
               "text": "Bağdat Musin",
               "links": [
                 {
@@ -948,19 +986,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Ecology, Geology and Natural Resources Экология, геология және табиғи ресурстар министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Ecology, Geology and Natural Resources Экология, геология және табиғи ресурстар министрі",
               "links": [
                 {
-                  "text": "Ministry of Ecology, Geology and Natural Resources",
+                  "text": "Minister of Ecology, Geology and Natural Resources",
                   "type": "internal",
                   "page": "Ministry of Ecology, Geology and Natural Resources (Kazakhstan)"
                 }
@@ -971,10 +1009,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Serıkqali Brekeşev",
               "links": [
                 {
@@ -983,19 +1021,19 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           },
           {
-            "Functions": {
-              "text": "Ministry of Energy Энергетика министрі",
+            "col1": {
+              "text": "Emblem of Kazakhstan latin.svg Minister of Energy Энергетика министрі",
               "links": [
                 {
-                  "text": "Ministry of Energy",
+                  "text": "Minister of Energy",
                   "type": "internal",
                   "page": "Ministry of Energy (Kazakhstan)"
                 }
@@ -1006,10 +1044,10 @@
                 ]
               }
             },
-            "Image": {
+            "col2": {
               "text": ""
             },
-            "Holder": {
+            "col3": {
               "text": "Bulat Aqchulaqov",
               "links": [
                 {
@@ -1018,10 +1056,10 @@
                 }
               ]
             },
-            "Start": {
+            "col4": {
               "text": "11 January 2022"
             },
-            "End": {
+            "col5": {
               "text": "Present"
             }
           }
