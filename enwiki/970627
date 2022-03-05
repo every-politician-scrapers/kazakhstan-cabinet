@@ -148,14 +148,17 @@
               ]
             },
             {
-              "text": "In 2022, he sacked the entirety of the Kazakh cabinet following the ongoing Kazakh protests that started on the 2nd of January.",
+              "text": "In 2022, he sacked the entirety of the Kazakh cabinet following the 2022 Kazakh protests that started on the 2nd of January.",
               "links": [
                 {
-                  "text": "ongoing Kazakh protests",
+                  "text": "2022 Kazakh protests",
                   "type": "internal",
                   "page": "2022 Kazakh protests"
                 }
               ]
+            },
+            {
+              "text": "and ended on the 11th of January."
             }
           ]
         },
@@ -187,12 +190,8 @@
       ],
       "templates": [
         {
-          "description": "2nd president of Kazakhstan",
+          "description": "President of Kazakhstan since 2019",
           "template": "short description"
-        },
-        {
-          "date": "April 2019",
-          "template": "use dmy dates"
         },
         {
           "list": [
@@ -201,6 +200,10 @@
           ],
           "lang": "Eastern Slavic",
           "template": "family name hatnote"
+        },
+        {
+          "date": "April 2019",
+          "template": "use dmy dates"
         },
         {
           "df": "y",

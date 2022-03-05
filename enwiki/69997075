@@ -40,8 +40,161 @@
       ],
       "templates": [
         {
-          "date": "February 2022",
-          "template": "more citations needed"
+          "year": "1966",
+          "month": "03",
+          "day": "04",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Lieutenant general"
+          },
+          "name": {
+            "text": "Ruslan Jaqsylyqov"
+          },
+          "native_name": {
+            "text": "Руслан Жақсылықов"
+          },
+          "native_name_lang": {
+            "text": "kk"
+          },
+          "office": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defense (Kazakhstan)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 January 2022"
+          },
+          "president": {
+            "text": "Kassym-Jomart Tokayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kassym-Jomart Tokayev"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Älihan Smaiylov",
+            "links": [
+              {
+                "text": "Älihan Smaiylov",
+                "type": "internal",
+                "page": "Älihan Smaiylov"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Murat Bektanov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Murat Bektanov"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Shymkent City Mäslihat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shymkent City Mäslihat"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "20 September 2003"
+          },
+          "term_end2": {
+            "text": "February 2004"
+          },
+          "birth_date": {
+            "text": "March 4, 1966"
+          },
+          "birth_place": {
+            "text": "Kaskelen, Kazakh SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaskelen"
+              },
+              {
+                "text": "Kazakh SSR",
+                "type": "internal",
+                "page": "Kazakh Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kazakh"
+          },
+          "alma_mater": {
+            "text": "Alma-Ata Higher Combined Arms Command School Frunze Military Academy Military Academy of the General Staff of the Armed Forces of Russia",
+            "links": [
+              {
+                "text": "Alma-Ata Higher Combined Arms Command School",
+                "type": "internal",
+                "page": "Military Institute of the Kazakh Ground Forces"
+              },
+              {
+                "type": "internal",
+                "page": "Frunze Military Academy"
+              },
+              {
+                "type": "internal",
+                "page": "Military Academy of the General Staff of the Armed Forces of Russia"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Soviet Union (1987-1991) 🇰🇿 Kazakhstan (1991-present)",
+            "links": [
+              {
+                "text": "Soviet Union",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "Kazakhstan",
+                "type": "internal",
+                "page": "kazakhstan"
+              }
+            ]
+          },
+          "rank": {
+            "text": "18-RKGF-LG.svg Lieutenant General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Armed Forces of Kazakhstan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armed Forces of Kazakhstan"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1991–present"
+          }
         }
       ]
     }
