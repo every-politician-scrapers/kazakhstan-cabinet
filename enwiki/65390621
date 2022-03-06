@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Erulan Kenjebekuly Jamaubaev (Ерұлан Кенжебекұлы Жамаубаев, Erūlan Kenjebekūly Jamaubaev; born 25 March 1974) is a Kazakh politician who's serving as a Minister of Finance since 18 May 2020.",
+              "text": "Erulan Kenjebekuly Jamaubaev (Ерұлан Кенжебекұлы Жамаубаев, Erūlan Kenjebekūly Jamaubaev; born 25 March 1974) is a Kazakh politician who's serving as Minister of Finance since 2020.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -74,21 +74,16 @@
           "term_start": {
             "text": "18 May 2020"
           },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
           "primeminister": {
-            "text": "Askar Mamin",
+            "text": "Askar Mamin Alihan Smaiylov",
             "links": [
               {
                 "type": "internal",
                 "page": "Askar Mamin"
+              },
+              {
+                "type": "internal",
+                "page": "Alihan Smaiylov"
               }
             ]
           },
