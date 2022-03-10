@@ -1,285 +1,34 @@
 {
-  "title": "Mäulen Äşimbaev",
-  "pageID": 63860742,
-  "categories": [
-    "Nur Otan politicians",
-    "Members of the Mazhilis",
-    "Chairmen of the Senate of Kazakhstan",
-    "1971 births",
-    "Living people",
-    "Al-Farabi Kazakh National University alumni",
-    "The Fletcher School at Tufts University alumni",
-    "Paul H. Nitze School of Advanced International Studies alumni",
-    "People from Almaty"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Maulen Sagathanovich Ashimbayev (Маулен Сагатханович Ашимбаев, Мәулен Сағатханұлы Әшімбаев; born 28 January 1971) is a Kazakh politician serving as the Chair and the member of the Senate of Kazakhstan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senate of Kazakhstan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Maulen Sagathanovich Ashimbayev"
-                ]
-              }
-            },
-            {
-              "text": "He served as the First Deputy Head of the Presidential Administration from 2019 to 2020, Assistant to the President of Kazakhstan in 2019, First Deputy Chairman of Nur Otan from 2018 to 2019 and member of Mazhilis from 2016 to 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nur Otan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mazhilis"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1971",
-          "month": "1",
-          "day": "28",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Maulen Ashimbayev"
-          },
-          "native_name": {
-            "text": "Мәулен Әшімбаев"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Maulen Ashimbayev.jpg"
-          },
-          "caption": {
-            "text": "Äşımbaev in 2015"
-          },
-          "office": {
-            "text": "8th Chair of the Senate",
-            "links": [
-              {
-                "text": "Chair of the Senate",
-                "type": "internal",
-                "page": "Chair of the Senate of Kazakhstan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "4 May 2020"
-          },
-          "deputy": {
-            "text": "Bektas Beknazarov Asqar Şäkirov Nurlan Äbdirov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bektas Beknazarov"
-              },
-              {
-                "type": "internal",
-                "page": "Asqar Şäkirov"
-              },
-              {
-                "type": "internal",
-                "page": "Nurlan Äbdirov"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dariga Nazarbayeva",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dariga Nazarbayeva"
-              }
-            ]
-          },
-          "office2": {
-            "text": "First Deputy Head of the Presidential Administration of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Presidential Administration of Kazakhstan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 December 2019"
-          },
-          "term_end2": {
-            "text": "4 May 2020"
-          },
-          "president2": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Darhan Kaletaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Darhan Kaletaev"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Dauren Abaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dauren Abaev"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate of Kazakhstan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "4 May 2020"
-          },
-          "office4": {
-            "text": "Member of the Mazhilis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mazhilis"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "15 January 2012"
-          },
-          "term_end4": {
-            "text": "1 February 2018"
-          },
-          "office5": {
-            "text": "First Deputy Chairman of Nur Otan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nur Otan"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 February 2018"
-          },
-          "term_end5": {
-            "text": "29 June 2019"
-          },
-          "1blankname5": {
-            "text": "Chairman"
-          },
-          "predecessor5": {
-            "text": "Mukhtar Kul-Mukhammed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mukhtar Kul-Mukhammed"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Bauyrjan Baibek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bauyrjan Baibek"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 28, 1971"
-          },
-          "birth_place": {
-            "text": "Alma-Ata, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "text": "Alma-Ata",
-                "type": "internal",
-                "page": "Almaty"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "party": {
-            "text": "Nur Otan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nur Otan"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Al-Farabi Kazakh National University Johns Hopkins University Tufts University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Farabi Kazakh National University"
-              },
-              {
-                "type": "internal",
-                "page": "Johns Hopkins University"
-              },
-              {
-                "type": "internal",
-                "page": "Tufts University"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "spouse": {
-            "text": "Aigul Buteeva"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Maulen Ashimbayev",
+  "native_name": "Мәулен Әшімбаев",
+  "native_name_lang": "kk",
+  "image": "Maulen Ashimbayev.jpg",
+  "caption": "Äşımbaev in 2015",
+  "office": "8th Chair of the Senate",
+  "term_start": "4 May 2020",
+  "deputy": "Bektas Beknazarov Asqar Şäkirov Nurlan Äbdirov",
+  "predecessor": "Dariga Nazarbayeva",
+  "office2": "First Deputy Head of the Presidential Administration of Kazakhstan",
+  "term_start2": "18 December 2019",
+  "term_end2": "4 May 2020",
+  "president2": "Kassym-Jomart Tokayev",
+  "predecessor2": "Darhan Kaletaev",
+  "successor2": "Dauren Abaev",
+  "office3": "Member of the Senate",
+  "term_start3": "4 May 2020",
+  "office4": "Member of the Mazhilis",
+  "term_start4": "15 January 2012",
+  "term_end4": "1 February 2018",
+  "office5": "First Deputy Chairman of Nur Otan",
+  "term_start5": "1 February 2018",
+  "term_end5": "29 June 2019",
+  "1blankname5": "Chairman",
+  "predecessor5": "Mukhtar Kul-Mukhammed",
+  "successor5": "Bauyrjan Baibek",
+  "birth_date": "January 28, 1971",
+  "birth_place": "Alma-Ata, Kazakh SSR, Soviet Union",
+  "party": "Nur Otan",
+  "alma_mater": "Al-Farabi Kazakh National University Johns Hopkins University Tufts University",
+  "children": "3",
+  "spouse": "Aigul Buteeva"
 }

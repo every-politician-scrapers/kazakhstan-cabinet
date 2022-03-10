@@ -1,214 +1,24 @@
 {
-  "title": "Serik Şapkenov",
-  "pageID": 66424245,
-  "categories": [
-    "1979 births",
-    "Living people",
-    "People from West Kazakhstan Region",
-    "Nur Otan politicians",
-    "Government ministers of Kazakhstan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Serik Zhmbyluly Shapkenov (Серік Жамбылұлы Шапкенов, Serık Jambylūly Şapkenov; born 29 July 1979) is a Kazakh politician who serving as a Minister of Labour and Social Protection since 18 January 2021.",
-              "links": [
-                {
-                  "text": "Minister of Labour and Social Protection",
-                  "type": "internal",
-                  "page": "Ministry of Labour and Social Protection of the Population (Kazakhstan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Serik Zhmbyluly Shapkenov"
-                ],
-                "italic": [
-                  "Serık Jambylūly Şapkenov"
-                ]
-              }
-            },
-            {
-              "text": "Prior to that, he was Deputy Labour and Social Protection Minister from June 2020, first deputy äkim of Atyrau Region from June 2018 to May 2020, äkim of Atyrau from July 2016 to 28 June 2018, first deputy äkim of West Kazakhstan Region from August 2012 to December 2014 and deputy akim from January to August 2012.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Atyrau Region"
-                },
-                {
-                  "type": "internal",
-                  "page": "Atyrau"
-                },
-                {
-                  "type": "internal",
-                  "page": "West Kazakhstan Region"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1979",
-          "month": "7",
-          "day": "29",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Serik Shapkenov"
-          },
-          "native_name": {
-            "text": "Серік Шапкенов"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Shapkenov Serik 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Shapkenov in 2021"
-          },
-          "office": {
-            "text": "Minister of Labour and Social Protection of the Population",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Protection of the Population",
-                "type": "internal",
-                "page": "Ministry of Labour and Social Protection of the Population (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 January 2021"
-          },
-          "predecessor": {
-            "text": "Birjan Nurymbetov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Birjan Nurymbetov"
-              }
-            ]
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Äkim of Atyrau",
-            "links": [
-              {
-                "text": "Äkim of Atyrau",
-                "type": "internal",
-                "page": "Atyrau"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 July 2016"
-          },
-          "term_end2": {
-            "text": "28 June 2018"
-          },
-          "predecessor2": {
-            "text": "Nurlybek Ojaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nurlybek Ojaev"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Älimuhammed Quttymuratuly",
-            "links": [
-              {
-                "text": "Älimuhammed Quttymuratuly",
-                "type": "internal",
-                "page": "Älimuhammed Quttymuratuly"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 29, 1979"
-          },
-          "birth_place": {
-            "text": "Karatobe, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karatobe"
-              },
-              {
-                "text": "Kazakh SSR",
-                "type": "internal",
-                "page": "Kazakh Soviet Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Jadyra Şapkenova"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "party": {
-            "text": "Nur Otan (2005–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nur Otan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh"
-          },
-          "alma_mater": {
-            "text": "West Kazakhstan State University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "West Kazakhstan State University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Serik Shapkenov",
+  "native_name": "Серік Шапкенов",
+  "native_name_lang": "kk",
+  "image": "Shapkenov Serik 2021 (cropped).jpg",
+  "caption": "Shapkenov in 2021",
+  "office": "Minister of Labour and Social Protection of the Population",
+  "term_start": "18 January 2021",
+  "predecessor": "Birjan Nurymbetov",
+  "president": "Kassym-Jomart Tokayev",
+  "primeminister": "Askar Mamin",
+  "office2": "Äkim of Atyrau",
+  "term_start2": "14 July 2016",
+  "term_end2": "28 June 2018",
+  "predecessor2": "Nurlybek Ojaev",
+  "successor2": "Älimuhammed Quttymuratuly",
+  "birth_date": "July 29, 1979",
+  "birth_place": "Karatobe, Kazakh SSR, Soviet Union",
+  "spouse": "Jadyra Şapkenova",
+  "children": "2",
+  "party": "Nur Otan (2005–present)",
+  "nationality": "Kazakh",
+  "alma_mater": "West Kazakhstan State University"
 }

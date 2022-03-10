@@ -1,206 +1,26 @@
 {
-  "title": "Eraly Togjanov",
-  "pageID": 64598810,
-  "categories": [
-    "Kazakhstani people",
-    "1963 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Eraly Luqpanuly Togjanov (Ералы Лұқпанұлы Тоғжанов; born 13 May 1963) is a Kazakh politician who is serving as the Deputy Prime Minister of Kazakhstan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Kazakhstan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Eraly Luqpanuly Togjanov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1963",
-          "month": "5",
-          "day": "13",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Eraly Togjanov"
-          },
-          "native_name": {
-            "text": "Ералы Тоғжанов"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Eraly Tugjanov (2016-04-06).jpg"
-          },
-          "caption": {
-            "text": "Togjanov in 2016"
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Kazakhstan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 February 2020"
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Äkim of Mangystau Region",
-            "links": [
-              {
-                "text": "Äkim of Mangystau Region",
-                "type": "internal",
-                "page": "List of Äkims of Mangystau Region"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 March 2017"
-          },
-          "term_end2": {
-            "text": "13 June 2019"
-          },
-          "predecessor2": {
-            "text": "Alik Aidarbaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alik Aidarbaev"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Serikbai Turymov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serikbai Turymov"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chairman of the Federation of Trade Unions",
-            "links": [
-              {
-                "text": "Federation of Trade Unions",
-                "type": "internal",
-                "page": "Federation of Trade Unions of Kazakhstan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "16 September 2019"
-          },
-          "term_end3": {
-            "text": "11 February 2020"
-          },
-          "predecessor3": {
-            "text": "Baqytjan Abdiraiym",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baqytjan Abdiraiym"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Satybaldy Dauletalin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Satybaldy Dauletalin"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 13, 1963"
-          },
-          "birth_place": {
-            "text": "Shagatai, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shagatai"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh",
-            "links": [
-              {
-                "text": "Kazakh",
-                "type": "internal",
-                "page": "Kazakhstan"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Gülnar Togjanova"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "alma_mater": {
-            "text": "Karagandy State University Kazakhstan Academy of Sciences",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karagandy State University"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakhstan Academy of Sciences"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Eraly Togjanov",
+  "native_name": "Ералы Тоғжанов",
+  "native_name_lang": "kk",
+  "image": "Eraly Tugjanov (2016-04-06).jpg",
+  "caption": "Togjanov in 2016",
+  "office": "Deputy Prime Minister of Kazakhstan",
+  "term_start": "11 February 2020",
+  "primeminister": "Askar Mamin",
+  "office2": "Äkim of Mangystau Region",
+  "term_start2": "14 March 2017",
+  "term_end2": "13 June 2019",
+  "predecessor2": "Alik Aidarbaev",
+  "successor2": "Serikbai Turymov",
+  "office3": "Chairman of the Federation of Trade Unions",
+  "term_start3": "16 September 2019",
+  "term_end3": "11 February 2020",
+  "predecessor3": "Baqytjan Abdiraiym",
+  "successor3": "Satybaldy Dauletalin",
+  "birth_date": "May 13, 1963",
+  "birth_place": "Shagatai, Kazakh SSR, Soviet Union",
+  "nationality": "Kazakh",
+  "spouse": "Gülnar Togjanova",
+  "children": "4",
+  "alma_mater": "Karagandy State University Kazakhstan Academy of Sciences"
 }

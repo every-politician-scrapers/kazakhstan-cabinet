@@ -1,248 +1,37 @@
 {
-  "title": "Mukhtar Tleuberdi",
-  "pageID": 62142746,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "Foreign ministers of Kazakhstan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mukhtar Tileuberdi (Мұхтар Бескенұлы Тілеуберді, Mūhtar Beskenūly Tıleuberdı; born June 30, 1968) is a Kazakh statesman who was appointed the post of Minister of Foreign Affairs of the Republic of Kazakhstan on 18 September 2019.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministers of Foreign Affairs (Kazakhstan)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Kazakhstan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mukhtar Tileuberdi"
-                ],
-                "italic": [
-                  "Mūhtar Beskenūly Tıleuberdı"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Minister of Foreign Affairs of the Republic of Kazakhstan",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "06",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mukhtar Tileuberdi"
-          },
-          "image": {
-            "text": "Mukhtar Tileuberdi (2020-02-02).jpg"
-          },
-          "caption": {
-            "text": "Tileuberdi in 2020"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Kazakhstan)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 September 2019"
-          },
-          "predecessor": {
-            "text": "Beibut Atamkulov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beibut Atamkulov"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Ambassador of Kazakhstan to Malaysia"
-          },
-          "president2": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 August 2004"
-          },
-          "term_end2": {
-            "text": "9 July 2009"
-          },
-          "predecessor2": {
-            "text": "Ikram Adyrbekov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ikram Adyrbekov"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Beibut Atamkulov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beibut Atamkulov"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Ambassador of Kazakhstan to Indonesia"
-          },
-          "term_start3": {
-            "text": "10 March 2005"
-          },
-          "term_end3": {
-            "text": "9 July 2009"
-          },
-          "president3": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Ambassador of Kazakhstan to Brunei"
-          },
-          "term_start4": {
-            "text": "10 March 2005"
-          },
-          "term_end4": {
-            "text": "9 July 2009"
-          },
-          "president4": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Ambassador of Kazakhstan to Philippines"
-          },
-          "term_start5": {
-            "text": "10 March 2005"
-          },
-          "term_end5": {
-            "text": "9 July 2009"
-          },
-          "president5": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Ambassador of Kazakhstan to Switzerland"
-          },
-          "president6": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "9 July 2009"
-          },
-          "term_end6": {
-            "text": "4 March 2016"
-          },
-          "predecessor6": {
-            "text": "Amanzhol Zhankuliev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amanzhol Zhankuliev"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Mukhtar Beskenuly Tileuberdi"
-          },
-          "birth_date": {
-            "text": "June 30, 1968"
-          },
-          "birth_place": {
-            "text": "Aksu village, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mukhtar Tileuberdi",
+  "image": "Mukhtar Tileuberdi (2020-02-02).jpg",
+  "caption": "Tileuberdi in 2020",
+  "office": "Minister of Foreign Affairs",
+  "president": "Kassym-Jomart Tokayev",
+  "primeminister": "Askar Mamin",
+  "term_start": "18 September 2019",
+  "predecessor": "Beibut Atamkulov",
+  "office2": "Ambassador of Kazakhstan to Malaysia",
+  "president2": "Nursultan Nazarbayev",
+  "term_start2": "5 August 2004",
+  "term_end2": "9 July 2009",
+  "predecessor2": "Ikram Adyrbekov",
+  "successor2": "Beibut Atamkulov",
+  "office3": "Ambassador of Kazakhstan to Indonesia",
+  "term_start3": "10 March 2005",
+  "term_end3": "9 July 2009",
+  "president3": "Nursultan Nazarbayev",
+  "office4": "Ambassador of Kazakhstan to Brunei",
+  "term_start4": "10 March 2005",
+  "term_end4": "9 July 2009",
+  "president4": "Nursultan Nazarbayev",
+  "office5": "Ambassador of Kazakhstan to Philippines",
+  "term_start5": "10 March 2005",
+  "term_end5": "9 July 2009",
+  "president5": "Nursultan Nazarbayev",
+  "office6": "Ambassador of Kazakhstan to Switzerland",
+  "president6": "Nursultan Nazarbayev",
+  "term_start6": "9 July 2009",
+  "term_end6": "4 March 2016",
+  "predecessor6": "Amanzhol Zhankuliev",
+  "birth_name": "Mukhtar Beskenuly Tileuberdi",
+  "birth_date": "June 30, 1968",
+  "birth_place": "Aksu village, Kazakh SSR, Soviet Union",
+  "nationality": "Kazakh"
 }

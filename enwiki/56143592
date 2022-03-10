@@ -1,465 +1,53 @@
 {
-  "title": "Krymbek Kusherbayev",
-  "pageID": 56143592,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Kazakhstani politicians",
-    "Governors of Regions in Kazakhstan",
-    "Kyzylorda Region"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Krymbek Eleuuly Kusherbayev (Қырымбек Елеуұлы Көшербаев, Qyrymbek Eleuūly Köşerbaev; born 20 May 1955) is a Kazakh politician who's serving as the State Secretary of Kazakhstan since 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Secretary of Kazakhstan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Krymbek Eleuuly Kusherbayev"
-                ],
-                "italic": [
-                  "Qyrymbek Eleuūly Köşerbaev"
-                ]
-              }
-            },
-            {
-              "text": "Prior to that, Kusherbayev served as the head of the Presidential Administration, akim of Kyzylorda Region from 2013 to 2019, First Deputy Prime Minister of Kazakhstan from 2012 to 2013, akim of Mangystau Region from 2006 to 2011, Ambassador of Kazakhstan to Russia, Finland and Armenia from 2003 to 2006, akim of West Kazakhstan Region from 2000 to 2003, and the Minister of Education and Science from 1997 to 2000.",
-              "links": [
-                {
-                  "text": "Presidential Administration",
-                  "type": "internal",
-                  "page": "Presidential Administration of Kazakhstan"
-                },
-                {
-                  "type": "internal",
-                  "page": "First Deputy Prime Minister of Kazakhstan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mangystau Region"
-                },
-                {
-                  "type": "internal",
-                  "page": "Russia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Finland"
-                },
-                {
-                  "type": "internal",
-                  "page": "West Kazakhstan Region"
-                },
-                {
-                  "text": "Minister of Education and Science",
-                  "type": "internal",
-                  "page": "Ministry of Education and Science (Kazakhstan)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1955",
-          "month": "05",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Krymbek Kusherbayev"
-          },
-          "nationality": {
-            "text": "Kazakh"
-          },
-          "image": {
-            "text": "Kusherbayev Krymbek.jpg"
-          },
-          "imagesize": {
-            "text": "250px"
-          },
-          "office": {
-            "text": "State Secretary of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Secretary of Kazakhstan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 September 2019"
-          },
-          "predecessor": {
-            "text": "Marat Tazhin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marat Tazhin"
-              }
-            ]
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Head of the Presidential Administration of Kazakhstan",
-            "links": [
-              {
-                "text": "Head of the Presidential Administration of Kazakhstan",
-                "type": "internal",
-                "page": "Presidential Administration of Kazakhstan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 June 2019"
-          },
-          "term_end1": {
-            "text": "18 September 2019"
-          },
-          "1blankname1": {
-            "text": "First Deputy"
-          },
-          "1namedata1": {
-            "text": "Darhan Kaletaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Darhan Kaletaev"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Bakhytzhan Sagintayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bakhytzhan Sagintayev"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Erlan Qoşanov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Erlan Qoşanov"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "First Deputy Prime Minister of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "First Deputy Prime Minister of Kazakhstan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "26 September 2012"
-          },
-          "term_end2": {
-            "text": "16 January 2013"
-          },
-          "predecessor2": {
-            "text": "Serik Akhmetov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serik Akhmetov"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Bakhytzhan Sagintayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bakhytzhan Sagintayev"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Serik Akhmetov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serik Akhmetov"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Education and Science",
-            "links": [
-              {
-                "text": "Minister of Education and Science",
-                "type": "internal",
-                "page": "Ministry of Education and Science (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "17 October 1997"
-          },
-          "term_end3": {
-            "text": "18 December 2000"
-          },
-          "predecessor3": {
-            "text": "Imangali Tasmagambetov (Education and Culture) Vasily Devyatko (Healthcare)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Imangali Tasmagambetov"
-              },
-              {
-                "type": "internal",
-                "page": "Vasily Devyatko"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nuraly Bekturganov (Education and Science) Altynbek Sarsenbayuly (Culture, Information and Public Accord) Jaqsylyq Dosqaliev (Healthcare)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nuraly Bekturganov"
-              },
-              {
-                "type": "internal",
-                "page": "Altynbek Sarsenbayuly"
-              },
-              {
-                "type": "internal",
-                "page": "Jaqsylyq Dosqaliev"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Nurlan Balgimbayev Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nurlan Balgimbayev"
-              },
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Äkim of Kyzylorda Region",
-            "links": [
-              {
-                "text": "Äkim of Kyzylorda Region",
-                "type": "internal",
-                "page": "List of Äkims of Kyzylorda Region"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "17 January 2013"
-          },
-          "term_end6": {
-            "text": "28 June 2019"
-          },
-          "predecessor6": {
-            "text": "Bolatbek Kuandykov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bolatbek Kuandykov"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Kuanyshbek Iskakov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kuanyshbek Iskakov"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Äkim of Mangystau Region",
-            "links": [
-              {
-                "text": "Äkim of Mangystau Region",
-                "type": "internal",
-                "page": "List of Äkims of Mangystau Region"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "24 January 2006"
-          },
-          "term_end7": {
-            "text": "22 December 2011"
-          },
-          "predecessor7": {
-            "text": "Bolat Palymbetov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bolat Palymbetov"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Bauyrzhan Mukhamedzhanov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bauyrzhan Mukhamedzhanov"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Äkim of West Kazakhstan Region",
-            "links": [
-              {
-                "text": "Äkim of West Kazakhstan Region",
-                "type": "internal",
-                "page": "List of Äkims of West Kazakhstan Region"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "18 December 2000"
-          },
-          "term_end8": {
-            "text": "16 November 2003"
-          },
-          "predecessor8": {
-            "text": "Kabibulla Dzhakupov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kabibulla Dzhakupov"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Nurgali Ashim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nurgali Ashim"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 20, 1955"
-          },
-          "birth_place": {
-            "text": "Kazalinsk, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "text": "Kazalinsk",
-                "type": "internal",
-                "page": "Kazaly"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Gulnar Matayeva"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Satbayev University Academy of Sciences of the Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Satbayev University"
-              },
-              {
-                "type": "internal",
-                "page": "Academy of Sciences of the Soviet Union"
-              }
-            ]
-          },
-          "party": {
-            "text": "Nur Otan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nur Otan"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "QKP (until 1991)",
-            "links": [
-              {
-                "text": "QKP",
-                "type": "internal",
-                "page": "Communist Party of Kazakhstan (Soviet Union)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Krymbek Kusherbayev",
+  "nationality": "Kazakh",
+  "image": "Kusherbayev Krymbek.jpg",
+  "imagesize": "250px",
+  "office": "State Secretary of Kazakhstan",
+  "term_start": "18 September 2019",
+  "predecessor": "Marat Tazhin",
+  "president": "Kassym-Jomart Tokayev",
+  "office1": "Head of the Presidential Administration of Kazakhstan",
+  "term_start1": "28 June 2019",
+  "term_end1": "18 September 2019",
+  "1blankname1": "First Deputy",
+  "1namedata1": "Darhan Kaletaev",
+  "predecessor1": "Bakhytzhan Sagintayev",
+  "successor1": "Erlan Qoşanov",
+  "president1": "Kassym-Jomart Tokayev",
+  "office2": "First Deputy Prime Minister of Kazakhstan",
+  "term_start2": "26 September 2012",
+  "term_end2": "16 January 2013",
+  "predecessor2": "Serik Akhmetov",
+  "successor2": "Bakhytzhan Sagintayev",
+  "primeminister2": "Serik Akhmetov",
+  "office3": "Minister of Education and Science",
+  "term_start3": "17 October 1997",
+  "term_end3": "18 December 2000",
+  "predecessor3": "Imangali Tasmagambetov (Education and Culture) Vasily Devyatko (Healthcare)",
+  "successor3": "Nuraly Bekturganov (Education and Science) Altynbek Sarsenbayuly (Culture, Information and Public Accord) Jaqsylyq Dosqaliev (Healthcare)",
+  "primeminister3": "Nurlan Balgimbayev Kassym-Jomart Tokayev",
+  "president3": "Nursultan Nazarbayev",
+  "office6": "Äkim of Kyzylorda Region",
+  "term_start6": "17 January 2013",
+  "term_end6": "28 June 2019",
+  "predecessor6": "Bolatbek Kuandykov",
+  "successor6": "Kuanyshbek Iskakov",
+  "office7": "Äkim of Mangystau Region",
+  "term_start7": "24 January 2006",
+  "term_end7": "22 December 2011",
+  "predecessor7": "Bolat Palymbetov",
+  "successor7": "Bauyrzhan Mukhamedzhanov",
+  "office8": "Äkim of West Kazakhstan Region",
+  "term_start8": "18 December 2000",
+  "term_end8": "16 November 2003",
+  "predecessor8": "Kabibulla Dzhakupov",
+  "successor8": "Nurgali Ashim",
+  "birth_date": "May 20, 1955",
+  "birth_place": "Kazalinsk, Kazakh SSR, Soviet Union",
+  "spouse": "Gulnar Matayeva",
+  "children": "3",
+  "alma_mater": "Satbayev University Academy of Sciences of the Soviet Union",
+  "party": "Nur Otan",
+  "otherparty": "QKP (until 1991)"
 }
