@@ -1,193 +1,21 @@
 {
-  "title": "Yuri Ilyin",
-  "pageID": 65441988,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "People from Kuybyshev, Novosibirsk Oblast",
-    "Government ministers of Kazakhstan",
-    "Kazakhstani people of Russian descent"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Yuri Viktorovich Ilyin (Юрий Викторович Ильин; born 9 April 1968) is a Kazakhstani politician and major general who has served as Minister of Emergency Situations since 11 September 2020.",
-              "links": [
-                {
-                  "text": "Minister of Emergency Situations",
-                  "type": "internal",
-                  "page": "Ministry of Emergency Situations (Kazakhstan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Yuri Viktorovich Ilyin"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakhstani politician",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "4",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Yuri Ilyin"
-          },
-          "native_name": {
-            "text": "Юрий Ильин"
-          },
-          "native_name_lang": {
-            "text": "ru"
-          },
-          "image": {
-            "text": "Yuri Ilyin (29389) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Ilyin in 2020"
-          },
-          "office": {
-            "text": "Minister of Emergency Situations",
-            "links": [
-              {
-                "text": "Minister of Emergency Situations",
-                "type": "internal",
-                "page": "Ministry of Emergency Situations (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 September 2020"
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Vladimir Bozhko (2014)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Bozhko"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 9, 1968"
-          },
-          "birth_place": {
-            "text": "Kuybyshev, Russian SFSR, Soviet Union",
-            "links": [
-              {
-                "text": "Kuybyshev",
-                "type": "internal",
-                "page": "Kuybyshev, Novosibirsk Oblast"
-              },
-              {
-                "text": "Russian SFSR",
-                "type": "internal",
-                "page": "Russian Soviet Federative Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakhstani"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Alma-Ata Higher Combined Arms Command School Kyrgyz State Law University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alma-Ata Higher Combined Arms Command School"
-              },
-              {
-                "type": "internal",
-                "page": "Kyrgyz State Law University"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "Soviet Union (1989–1991) 🇷🇺 Russia (1991–1992) 🇰🇿 Kazakhstan (2020–present)",
-            "links": [
-              {
-                "text": "Soviet Union",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "Russia",
-                "type": "internal",
-                "page": "russia"
-              },
-              {
-                "text": "Kazakhstan",
-                "type": "internal",
-                "page": "kazakhstan"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Armed Forces of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Armed Forces of Kazakhstan"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "2020–present"
-          },
-          "rank": {
-            "text": "17-RKGF-MG.svg Major general",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Major general"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Yuri Ilyin",
+  "native_name": "Юрий Ильин",
+  "native_name_lang": "ru",
+  "image": "Yuri Ilyin (29389) (cropped).jpg",
+  "caption": "Ilyin in 2020",
+  "office": "Minister of Emergency Situations",
+  "term_start": "11 September 2020",
+  "president": "Kassym-Jomart Tokayev",
+  "primeminister": "Askar Mamin",
+  "predecessor": "Vladimir Bozhko (2014)",
+  "birth_date": "April 9, 1968",
+  "birth_place": "Kuybyshev, Russian SFSR, Soviet Union",
+  "nationality": "Kazakhstani",
+  "children": "3",
+  "alma_mater": "Alma-Ata Higher Combined Arms Command School Kyrgyz State Law University",
+  "allegiance": "Soviet Union (1989–1991) 🇷🇺 Russia (1991–1992) 🇰🇿 Kazakhstan (2020–present)",
+  "branch": "Armed Forces of Kazakhstan",
+  "serviceyears": "2020–present",
+  "rank": "17-RKGF-MG.svg Major general"
 }

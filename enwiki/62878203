@@ -1,159 +1,21 @@
 {
-  "title": "Altai Kölgınov",
-  "pageID": 62878203,
-  "categories": [
-    "1978 births",
-    "Living people",
-    "People from Turkistan Region",
-    "Kazakhstani politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Altai Seidırūly Kölgınov (Алтай Сейдірұлы Көлгінов, Altai Seidırūly Kölgınov; born 15 January 1978) is a Kazakh politician who's currently serving as the äkim of Nur-Sultan since June 2019.",
-              "links": [
-                {
-                  "text": "äkim of Nur-Sultan",
-                  "type": "internal",
-                  "page": "äkim of Nur-Sultan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Altai Seidırūly Kölgınov"
-                ],
-                "italic": [
-                  "Altai Seidırūly Kölgınov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1978",
-          "month": "1",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Altaı Kölgınov"
-          },
-          "native_name": {
-            "text": "Алтай Көлгінов"
-          },
-          "image": {
-            "text": "Altai Kolginov (27829) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Kölginov in 2019"
-          },
-          "office": {
-            "text": "10th Äkim of Nur-Sultan",
-            "links": [
-              {
-                "text": "Äkim of Nur-Sultan",
-                "type": "internal",
-                "page": "Äkim of Nur-Sultan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 June 2019"
-          },
-          "predecessor": {
-            "text": "Baqyt Sultanov",
-            "links": [
-              {
-                "text": "Baqyt Sultanov",
-                "type": "internal",
-                "page": "Bakhyt Sultanov"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Äkim of West Kazakhstan Region",
-            "links": [
-              {
-                "text": "Äkim of West Kazakhstan Region",
-                "type": "internal",
-                "page": "List of Äkims of West Kazakhstan Region"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "26 March 2016"
-          },
-          "term_end2": {
-            "text": "13 June 2019"
-          },
-          "predecessor2": {
-            "text": "Nurlan Nogaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nurlan Nogaev"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Gali Esqaliev"
-          },
-          "office3": {
-            "text": "Äkim of Oral",
-            "links": [
-              {
-                "text": "Äkim of Oral",
-                "type": "internal",
-                "page": "Oral, Kazakhstan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "4 April 2013"
-          },
-          "term_end3": {
-            "text": "26 March 2016"
-          },
-          "predecessor3": {
-            "text": "Bolat Shakimov"
-          },
-          "successor3": {
-            "text": "Nariman Toregaliev"
-          },
-          "birth_date": {
-            "text": "January 15, 1978"
-          },
-          "birth_place": {
-            "text": "Abaı, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "text": "Abaı",
-                "type": "internal",
-                "page": "Abai, Turkistan Region"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Altaı Kölgınov",
+  "native_name": "Алтай Көлгінов",
+  "image": "Altai Kolginov (27829) (cropped).jpg",
+  "caption": "Kölginov in 2019",
+  "office": "10th Äkim of Nur-Sultan",
+  "term_start": "13 June 2019",
+  "predecessor": "Baqyt Sultanov",
+  "office2": "Äkim of West Kazakhstan Region",
+  "term_start2": "26 March 2016",
+  "term_end2": "13 June 2019",
+  "predecessor2": "Nurlan Nogaev",
+  "successor2": "Gali Esqaliev",
+  "office3": "Äkim of Oral",
+  "term_start3": "4 April 2013",
+  "term_end3": "26 March 2016",
+  "predecessor3": "Bolat Shakimov",
+  "successor3": "Nariman Toregaliev",
+  "birth_date": "January 15, 1978",
+  "birth_place": "Abaı, Kazakh SSR, Soviet Union"
 }

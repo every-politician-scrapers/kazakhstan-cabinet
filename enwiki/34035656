@@ -1,378 +1,49 @@
 {
-  "title": "Asset Issekeshev",
-  "pageID": 34035656,
-  "categories": [
-    "1971 births",
-    "Living people",
-    "People from Karaganda Region",
-    "Ministers of Industry (Kazakhstan)",
-    "Ministers of Trade (Kazakhstan)",
-    "Government ministers of Kazakhstan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Asset Orentaiuly Issekeshev (Әсет Өрентайұлы Исекешев, Äset Örentaiūly İsekeşev; born 17 August 1971) is Kazakh politician who is serving as an aide to the President of Kazakhstan and the Secretary of the Security Council since January 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Kazakhstan"
-                },
-                {
-                  "text": "Security Council",
-                  "type": "internal",
-                  "page": "Security Council of Kazakhstan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Asset Orentaiuly Issekeshev"
-                ],
-                "italic": [
-                  "Äset Örentaiūly İsekeşev"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he served as the Executive Director of the Fund of the First President of Kazakhstan from March 2019 to January 2020, head of the Presidential Administration from September 2018 to March 2019, äkim of Nur-Sultan from June 2016 to September 2018, Deputy Prime Minister and Minister of Industry and New Technologies from March 2010 to August 2014, and Minister of Investments and Development from August 2014 to June 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nur-Sultan"
-                },
-                {
-                  "text": "Deputy Prime Minister",
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Kazakhstan"
-                },
-                {
-                  "text": "Minister of Investments and Development",
-                  "type": "internal",
-                  "page": "Ministry of Investment and Development (Kazakhstan)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1971",
-          "month": "8",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Asset Issekeshev"
-          },
-          "native_name": {
-            "text": "Әсет Өрентайұлы Исекешев"
-          },
-          "image": {
-            "text": "Asset Issekeshev 2014 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Issekeshev in 2014"
-          },
-          "office": {
-            "text": "Secretary of the Security Council",
-            "links": [
-              {
-                "text": "Security Council",
-                "type": "internal",
-                "page": "Security Council of Kazakhstan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 January 2020"
-          },
-          "1blankname": {
-            "text": "Chairman"
-          },
-          "1namedata": {
-            "text": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              },
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Kalmukhanbet Kassymov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kalmukhanbet Kassymov"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Head of the Presidential Administration of Kazakhstan",
-            "links": [
-              {
-                "text": "Head of the Presidential Administration of Kazakhstan",
-                "type": "internal",
-                "page": "Presidential Administration of Kazakhstan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "10 September 2018"
-          },
-          "term_end2": {
-            "text": "24 March 2019"
-          },
-          "president2": {
-            "text": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              },
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "First Deputy"
-          },
-          "1namedata2": {
-            "text": "Marat Tazhin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marat Tazhin"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Adilbek Zhaksybekov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adilbek Zhaksybekov"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Bakhytzhan Sagintayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bakhytzhan Sagintayev"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Investment and Development",
-            "links": [
-              {
-                "text": "Minister of Investment and Development",
-                "type": "internal",
-                "page": "Ministry of Investment and Development (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 August 2014"
-          },
-          "term_end3": {
-            "text": "21 June 2016"
-          },
-          "predecessor3": {
-            "text": "Office established"
-          },
-          "primeminister3": {
-            "text": "Karim Massimov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karim Massimov"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Zhenis Kassymbek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zhenis Kassymbek"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy Prime Minister for Industry and New Technologies"
-          },
-          "term_start4": {
-            "text": "12 March 2010"
-          },
-          "term_end4": {
-            "text": "6 August 2014"
-          },
-          "predecessor4": {
-            "text": "Office established"
-          },
-          "successor4": {
-            "text": "Office abolished"
-          },
-          "primeminister4": {
-            "text": "Karim Massimov Serik Akhmetov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karim Massimov"
-              },
-              {
-                "type": "internal",
-                "page": "Serik Akhmetov"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Industry and Trade"
-          },
-          "term_start5": {
-            "text": "21 May 2009"
-          },
-          "term_end5": {
-            "text": "12 March 2010"
-          },
-          "predecessor5": {
-            "text": "Vladimir Shkolnik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Shkolnik"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Karim Massimov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karim Massimov"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Office abolished"
-          },
-          "office6": {
-            "text": "8th Mayor of Nur-Sultan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Nur-Sultan"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "21 June 2016"
-          },
-          "term_end6": {
-            "text": "11 September 2018"
-          },
-          "predecessor6": {
-            "text": "Adilbek Zhaksybekov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adilbek Zhaksybekov"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Bakhyt Sultanov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bakhyt Sultanov"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "August 17, 1971"
-          },
-          "birth_place": {
-            "text": "Karaganda, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karaganda"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Lyazzat Issekesheva"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Asset Issekeshev",
+  "native_name": "Әсет Өрентайұлы Исекешев",
+  "image": "Asset Issekeshev 2014 (cropped).jpg",
+  "caption": "Issekeshev in 2014",
+  "office": "Secretary of the Security Council",
+  "term_start": "16 January 2020",
+  "1blankname": "Chairman",
+  "1namedata": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
+  "predecessor1": "Kalmukhanbet Kassymov",
+  "president1": "Kassym-Jomart Tokayev",
+  "office2": "Head of the Presidential Administration of Kazakhstan",
+  "term_start2": "10 September 2018",
+  "term_end2": "24 March 2019",
+  "president2": "Nursultan Nazarbayev Kassym-Jomart Tokayev",
+  "1blankname2": "First Deputy",
+  "1namedata2": "Marat Tazhin",
+  "predecessor2": "Adilbek Zhaksybekov",
+  "successor2": "Bakhytzhan Sagintayev",
+  "office3": "Minister of Investment and Development",
+  "term_start3": "6 August 2014",
+  "term_end3": "21 June 2016",
+  "predecessor3": "Office established",
+  "primeminister3": "Karim Massimov",
+  "president3": "Nursultan Nazarbayev",
+  "successor3": "Zhenis Kassymbek",
+  "office4": "Deputy Prime Minister for Industry and New Technologies",
+  "term_start4": "12 March 2010",
+  "term_end4": "6 August 2014",
+  "predecessor4": "Office established",
+  "successor4": "Office abolished",
+  "primeminister4": "Karim Massimov Serik Akhmetov",
+  "president4": "Nursultan Nazarbayev",
+  "office5": "Minister of Industry and Trade",
+  "term_start5": "21 May 2009",
+  "term_end5": "12 March 2010",
+  "predecessor5": "Vladimir Shkolnik",
+  "primeminister5": "Karim Massimov",
+  "president5": "Nursultan Nazarbayev",
+  "successor5": "Office abolished",
+  "office6": "8th Mayor of Nur-Sultan",
+  "term_start6": "21 June 2016",
+  "term_end6": "11 September 2018",
+  "predecessor6": "Adilbek Zhaksybekov",
+  "successor6": "Bakhyt Sultanov",
+  "birth_date": "August 17, 1971",
+  "birth_place": "Karaganda, Kazakh SSR, Soviet Union",
+  "spouse": "Lyazzat Issekesheva"
 }

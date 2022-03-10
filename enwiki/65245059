@@ -1,149 +1,16 @@
 {
-  "title": "Ashat Aimagambetov",
-  "pageID": 65245059,
-  "categories": [
-    "1982 births",
-    "People from Karaganda Region",
-    "Government ministers of Kazakhstan",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ashat Qanatuly Aimagambetov (Асхат Қанатұлы Аймағамбетов, Ashat Qanatūly Aimağambetov; born 14 June 1982) is a Kazakh politician who is serving as a Minister of Education and Science since June 2019.",
-              "links": [
-                {
-                  "text": "Minister of Education and Science",
-                  "type": "internal",
-                  "page": "Ministry of Education and Science (Kazakhstan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ashat Qanatuly Aimagambetov"
-                ],
-                "italic": [
-                  "Ashat Qanatūly Aimağambetov"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1982",
-          "month": "6",
-          "day": "14",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ashat Aimagambetov"
-          },
-          "native_name": {
-            "text": "Асхат Аймағамбетов"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Ashat Aimagambetov (24112) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Aimagambetov in 2018"
-          },
-          "office": {
-            "text": "Minister of Education and Science",
-            "links": [
-              {
-                "text": "Minister of Education and Science",
-                "type": "internal",
-                "page": "Ministry of Education and Science (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 June 2019"
-          },
-          "president": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Kulash Shamshidinova",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kulash Shamshidinova"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 14, 1982"
-          },
-          "birth_place": {
-            "text": "Aqsu-Aiuly, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aqsu-Aiuly"
-              },
-              {
-                "text": "Kazakh SSR",
-                "type": "internal",
-                "page": "Kazakh Soviet Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh"
-          },
-          "alma_mater": {
-            "text": "Karagandy State University Karagandy Institute of Actual Education",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karagandy State University"
-              },
-              {
-                "type": "internal",
-                "page": "Karagandy Institute of Actual Education"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ashat Aimagambetov",
+  "native_name": "Асхат Аймағамбетов",
+  "native_name_lang": "kk",
+  "image": "Ashat Aimagambetov (24112) (cropped).jpg",
+  "caption": "Aimagambetov in 2018",
+  "office": "Minister of Education and Science",
+  "term_start": "13 June 2019",
+  "president": "Nursultan Nazarbayev",
+  "primeminister": "Askar Mamin",
+  "predecessor": "Kulash Shamshidinova",
+  "birth_date": "June 14, 1982",
+  "birth_place": "Aqsu-Aiuly, Kazakh SSR, Soviet Union",
+  "nationality": "Kazakh",
+  "alma_mater": "Karagandy State University Karagandy Institute of Actual Education"
 }

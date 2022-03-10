@@ -1,302 +1,39 @@
 {
-  "title": "Dauren Abaev",
-  "pageID": 63666856,
-  "categories": [
-    "1979 births",
-    "Living people",
-    "Kazakhstani politicians",
-    "People from Almaty Region",
-    "Al-Farabi Kazakh National University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dauren Askerbekuly Abaev (born 18 April 1979) is a Kazakh politician, diplomat, who's the First Deputy Head of the Presidential Administration of Kazakhstan from 2020 to 2022.",
-              "formatting": {
-                "bold": [
-                  "Dauren Askerbekuly Abaev"
-                ]
-              }
-            },
-            {
-              "text": "He served as Minister of Information and Social Development from 2019 to 2020, Minister of Information and Communications from 2016 to 2016, and the Akorda Press Secretary from 2011 to 2016."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician and diplomat",
-          "template": "short description"
-        },
-        {
-          "year": "1979",
-          "month": "4",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Dauren Abaev"
-          },
-          "native_name": {
-            "text": "Дәурен Абаев"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Dauren Abaev, 2018 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Abaev in 2018"
-          },
-          "office": {
-            "text": "First Deputy Head of the Presidential Administration of Kazakhstan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Presidential Administration of Kazakhstan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "4 May 2020"
-          },
-          "term_end": {
-            "text": "11 January 2022"
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Mäulen Äşimbaev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mäulen Äşimbaev"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Timur Suleimenov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timur Suleimenov"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Press Secretary of the President"
-          },
-          "term_start2": {
-            "text": "7 October 2011"
-          },
-          "term_end2": {
-            "text": "6 May 2016"
-          },
-          "president2": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Baglan Mailybayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baglan Mailybayev"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Aidos Ukibay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aidos Ukibay"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Information and Social Development",
-            "links": [
-              {
-                "text": "Minister of Information and Social Development",
-                "type": "internal",
-                "page": "Ministry of Information and Social Development (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "25 February 2019"
-          },
-          "term_end3": {
-            "text": "4 May 2020"
-          },
-          "president3": {
-            "text": "Kassym-Jomart Tokayev Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              },
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Darhan Kaletaev (Social Development)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Darhan Kaletaev"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Aida Balaeva",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aida Balaeva"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Information and Communications",
-            "links": [
-              {
-                "text": "Minister of Information and Communications",
-                "type": "internal",
-                "page": "Ministry of Information and Communications (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "6 May 2016"
-          },
-          "term_end4": {
-            "text": "25 February 2019"
-          },
-          "president4": {
-            "text": "Nursultan Nazarbayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nursultan Nazarbayev"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Karim Massimov Bakhytzhan Sagintayev Askar Mamin (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karim Massimov"
-              },
-              {
-                "type": "internal",
-                "page": "Bakhytzhan Sagintayev"
-              },
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Office established"
-          },
-          "successor4": {
-            "text": "Office abolished"
-          },
-          "birth_date": {
-            "text": "April 18, 1979"
-          },
-          "birth_place": {
-            "text": "Almaty Region, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Almaty Region"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh",
-            "links": [
-              {
-                "text": "Kazakh",
-                "type": "internal",
-                "page": "Kazakhs"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Al-Farabi Kazakh National University Leiden University Eurasian Humanitarian Institute",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al-Farabi Kazakh National University"
-              },
-              {
-                "type": "internal",
-                "page": "Leiden University"
-              },
-              {
-                "type": "internal",
-                "page": "Eurasian Humanitarian Institute"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Aynura Abaeva"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Dauren Abaev",
+  "native_name": "Дәурен Абаев",
+  "native_name_lang": "kk",
+  "image": "Dauren Abaev, 2018 (cropped).jpg",
+  "caption": "Abaev in 2018",
+  "office": "First Deputy Head of the Presidential Administration of Kazakhstan",
+  "term_start": "4 May 2020",
+  "term_end": "11 January 2022",
+  "president": "Kassym-Jomart Tokayev",
+  "predecessor": "Mäulen Äşimbaev",
+  "successor": "Timur Suleimenov",
+  "office2": "Press Secretary of the President",
+  "term_start2": "7 October 2011",
+  "term_end2": "6 May 2016",
+  "president2": "Nursultan Nazarbayev",
+  "predecessor2": "Baglan Mailybayev",
+  "successor2": "Aidos Ukibay",
+  "office3": "Minister of Information and Social Development",
+  "term_start3": "25 February 2019",
+  "term_end3": "4 May 2020",
+  "president3": "Kassym-Jomart Tokayev Nursultan Nazarbayev",
+  "primeminister3": "Askar Mamin",
+  "predecessor3": "Darhan Kaletaev (Social Development)",
+  "successor3": "Aida Balaeva",
+  "office4": "Minister of Information and Communications",
+  "term_start4": "6 May 2016",
+  "term_end4": "25 February 2019",
+  "president4": "Nursultan Nazarbayev",
+  "primeminister4": "Karim Massimov Bakhytzhan Sagintayev Askar Mamin (Acting)",
+  "predecessor4": "Office established",
+  "successor4": "Office abolished",
+  "birth_date": "April 18, 1979",
+  "birth_place": "Almaty Region, Kazakh SSR, Soviet Union",
+  "nationality": "Kazakh",
+  "alma_mater": "Al-Farabi Kazakh National University Leiden University Eurasian Humanitarian Institute",
+  "spouse": "Aynura Abaeva",
+  "children": "4"
 }

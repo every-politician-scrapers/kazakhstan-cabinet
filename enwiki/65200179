@@ -1,153 +1,17 @@
 {
-  "title": "Bağdat Musin",
-  "pageID": 65200179,
-  "categories": [
-    "1983 births",
-    "Government ministers of Kazakhstan",
-    "Kazakh Ablai Khan University alumni",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bağdat Batyrbekuly Musin (Бағдат Батырбекұлы Мусин, Bağdat Batyrbekūly Musin; born 3 March 1983) is a Kazakh politician that is serving as the Minister of Digital Development, Innovation and Aerospace Industry since 2 September 2020.",
-              "links": [
-                {
-                  "text": "Minister of Digital Development, Innovation and Aerospace Industry",
-                  "type": "internal",
-                  "page": "Ministry of Digital Development, Innovation and Aerospace Industry (Kazakhstan)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bağdat Batyrbekuly Musin"
-                ],
-                "italic": [
-                  "Bağdat Batyrbekūly Musin"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kazakh politician",
-          "template": "short description"
-        },
-        {
-          "year": "1983",
-          "month": "3",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Bağdat Musin"
-          },
-          "native_name": {
-            "text": "Бағдат Мусин"
-          },
-          "native_name_lang": {
-            "text": "kk"
-          },
-          "image": {
-            "text": "Mussin b (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Digital Development, Innovation and Aerospace Industry",
-            "links": [
-              {
-                "text": "Minister of Digital Development, Innovation and Aerospace Industry",
-                "type": "internal",
-                "page": "Ministry of Digital Development, Innovation and Aerospace Industry (Kazakhstan)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2 September 2020 Acting: 20 July 2020 – 2 September 2020"
-          },
-          "president": {
-            "text": "Kassym-Jomart Tokayev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kassym-Jomart Tokayev"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Askar Mamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Mamin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Askar Zhumagaliyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Askar Zhumagaliyev"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 3, 1983"
-          },
-          "birth_place": {
-            "text": "Ekibastuz, Kazakh SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ekibastuz"
-              },
-              {
-                "text": "Kazakh SSR",
-                "type": "internal",
-                "page": "Kazakh Soviet Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kazakh"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Suleyman Demirel University Kazakh Institute of Jurisprudence and International Relations",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Suleyman Demirel University"
-              },
-              {
-                "type": "internal",
-                "page": "Kazakh Institute of Jurisprudence and International Relations"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician, computer scientist, software engineer, manager"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Bağdat Musin",
+  "native_name": "Бағдат Мусин",
+  "native_name_lang": "kk",
+  "image": "Mussin b (cropped).jpg",
+  "office": "Minister of Digital Development, Innovation and Aerospace Industry",
+  "term_start": "2 September 2020 Acting: 20 July 2020 – 2 September 2020",
+  "president": "Kassym-Jomart Tokayev",
+  "primeminister": "Askar Mamin",
+  "predecessor": "Askar Zhumagaliyev",
+  "birth_date": "March 3, 1983",
+  "birth_place": "Ekibastuz, Kazakh SSR, Soviet Union",
+  "nationality": "Kazakh",
+  "children": "3",
+  "alma_mater": "Suleyman Demirel University Kazakh Institute of Jurisprudence and International Relations",
+  "occupation": "Politician, computer scientist, software engineer, manager"
 }
