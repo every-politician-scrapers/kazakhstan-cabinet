@@ -1,0 +1,21 @@
+id,name,relationship,relative,relativename
+Q1045853,Mukhtar Altynbayev,child,Q12528676,Алтынбаев Мүслім Мұхтарұлы
+Q16437571,Bulat Aqchulaqov,father,Q12557382,Орал Ақшолақұлы Ақшолақов
+Q200881,Kassym-Jomart Tokayev,child,Q110751966,Timur Tokayev
+Q200881,Kassym-Jomart Tokayev,father,Q65251218,Kemel Toqayev
+Q200881,Kassym-Jomart Tokayev,mother,Q110437193,Turar Shabarbayeva
+Q200881,Kassym-Jomart Tokayev,sibling,Q110751912,Karlyga Izbastina
+Q200881,Kassym-Jomart Tokayev,spouse,Q62274388,Nadezhda Tokayeva
+Q376532,Dariga Nazarbayeva,child,Q34528778,Aisultan Nazarbayev
+Q376532,Dariga Nazarbayeva,child,Q4062303,Nurali Aliyev
+Q376532,Dariga Nazarbayeva,father,Q57394,Nursultan Nazarbayev
+Q376532,Dariga Nazarbayeva,mother,Q2667651,Sara Nazarbayeva
+Q376532,Dariga Nazarbayeva,sibling,Q4312090,Aliya Nazarbayeva
+Q376532,Dariga Nazarbayeva,sibling,Q464735,Dinara Nazarbayeva
+Q376532,Dariga Nazarbayeva,spouse,Q701515,Rakhat Aliyev
+Q4404442,Bakhytzhan Sagintayev,father,Q12578135,Әбдір Сағынтаев
+Q57394,Nursultan Nazarbayev,child,Q376532,Dariga Nazarbayeva
+Q57394,Nursultan Nazarbayev,child,Q4312090,Aliya Nazarbayeva
+Q57394,Nursultan Nazarbayev,child,Q464735,Dinara Nazarbayeva
+Q57394,Nursultan Nazarbayev,sibling,Q91941470,Bolat Nazarbayev
+Q57394,Nursultan Nazarbayev,spouse,Q2667651,Sara Nazarbayeva
