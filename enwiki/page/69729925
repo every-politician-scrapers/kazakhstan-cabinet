@@ -158,13 +158,139 @@
       ]
     },
     {
+      "title": "Formation",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 5 January 2022, while in amidst of the nationwide instability, President Kassym-Jomart Tokayev appointed Älihan Smaiylov to take over Prime Minister Asqar Mamin's role in leading the government temporarily as acting PM until a new composition would be formed.",
+              "links": [
+                {
+                  "text": "nationwide instability",
+                  "type": "internal",
+                  "page": "2022 Kazakh unrest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kassym-Jomart Tokayev"
+                },
+                {
+                  "text": "Älihan Smaiylov",
+                  "type": "internal",
+                  "page": "Älihan Smaiylov"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asqar Mamin"
+                }
+              ]
+            },
+            {
+              "text": "Prior to that, Smayilov served as First Deputy Prime Minister and Finance Minister in Mamin's government.",
+              "links": [
+                {
+                  "text": "Mamin's government",
+                  "type": "internal",
+                  "page": "Mamin Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During an extraordinary session of the CTSO on 10 January 2022, President Tokayev announced that he would submit proposed candidacies for ministerial posts to the Parliament the following day to form a new cabinet.",
+              "links": [
+                {
+                  "text": "CTSO",
+                  "type": "internal",
+                  "page": "Collective Security Treaty Organization"
+                },
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Kazakhstan"
+                }
+              ]
+            },
+            {
+              "text": "On 11 January, at the lower house Majilis session, Tokayev named Smaiylov for prime ministerial candidacy where he was unanimously elected by all present 89 MPs across party lines.",
+              "links": [
+                {
+                  "text": "Majilis",
+                  "type": "internal",
+                  "page": "Mazhilis"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-01-05",
+          "title": "Kazakh president sacks cabinet, declares emergency amid unrest",
+          "url": "https://www.aljazeera.com/news/2022/1/5/emergency-declared-in-kazakhstans-almaty-mangistau-amid-unrest",
+          "access-date": "2022-03-25",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-01-06",
+          "title": "Kazakhstan explainer: Who’s in, who’s out as Tokayev tries to take back control?",
+          "url": "https://eurasianet.org/kazakhstan-explainer-whos-in-whos-out-as-tokayev-tries-to-take-back-control",
+          "access-date": "2022-03-25",
+          "website": "eurasianet.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-01-10",
+          "title": "Токаев внесет в парламент предложения по новому составу правительства",
+          "url": "https://kz.kursiv.media/2022-01-10/tokaev-vneset-v-parlament-predlozheniya-po-novomu-sostavu-pravitelstva/",
+          "access-date": "2022-03-25",
+          "website": "Kursiv Media KZ",
+          "language": "ru",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Мұхади",
+          "first": "Айнұр",
+          "date": "2022-01-11",
+          "title": "Әлихан Смайылов ҚР премьер-министрі болып тағайындалды",
+          "url": "https://stan.kz/alihan-smayilov-kr-premer-ministri-bolip-358272/",
+          "access-date": "2022-03-25",
+          "website": "Stan.kz",
+          "language": "kk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Composition",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Members of The Cabinet are:"
+              "text": "A majority of ministers from the previous composition retained their posts while 8 portfolios saw new appointees with 2 of them formerly serving in the cabinet before returning which where:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Members of the cabinet are:"
             }
           ]
         },
@@ -949,7 +1075,7 @@
               "text": ""
             },
             "col3": {
-              "text": "Alibek Kuantyrov"
+              "text": "Alibek Quantyrov"
             },
             "col4": {
               "text": "11 January 2022"
@@ -1065,7 +1191,79 @@
           }
         ]
       ],
+      "lists": [
+        [
+          {
+            "text": "Minister of Healthcare Ajar Giniat, previously served as the vice minister"
+          },
+          {
+            "text": "Minister of Information and Social Development Asqar Omarov, previously served as the vice minister"
+          },
+          {
+            "text": "Minister of Justice Qanat Musin, previously headed the judicial board for administrative cases and was judge in the Kazakh Supreme Court",
+            "links": [
+              {
+                "text": "Kazakh Supreme Court",
+                "type": "internal",
+                "page": "Supreme Court of Kazakhstan"
+              }
+            ]
+          },
+          {
+            "text": "Minister of Industry and Infrastructure Development Qaiyrbek Uskenbaev, previously served as the first vice minister"
+          },
+          {
+            "text": "Minister of Culture and Sports Dauren Abaev, previously worked in the Presidential Administration under Tokayev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dauren Abaev"
+              },
+              {
+                "text": "Presidential Administration",
+                "type": "internal",
+                "page": "Presidential Administration of Kazakhstan"
+              }
+            ]
+          },
+          {
+            "text": "Minister of National Economy Alibek Quantyrov, previously served as the vice minister"
+          },
+          {
+            "text": "Minister of Energy Bulat Aqchulaqov, previously worked in the Samruk-Kazyna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bulat Aqchulaqov"
+              },
+              {
+                "type": "internal",
+                "page": "Samruk-Kazyna"
+              }
+            ]
+          },
+          {
+            "text": "Deputy Prime Minister Bakhyt Sultanov, previously served as the Minister of Trade and Integration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bakhyt Sultanov"
+              }
+            ]
+          }
+        ]
+      ],
       "references": [
+        {
+          "date": "2022-01-11",
+          "title": "Сформирован новый состав правительства Казахстана",
+          "url": "https://www.interfax.ru/world/814778",
+          "access-date": "2022-03-25",
+          "website": "Interfax.ru",
+          "language": "ru",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Government Composition",
           "url": "https://primeminister.kz/en/government/composition",
