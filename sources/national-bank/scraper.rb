@@ -4,43 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-# Russian dates
-class RussianExtd < WikipediaDate
-  REMAP = {
-    'Настоящее время' => '',
-    'настоящее время' => '',
-    'января'          => 'January',
-    'январь'          => 'January',
-    'февраля'         => 'February',
-    'февраль'         => 'February',
-    'март'            => 'March',
-    'марта'           => 'March',
-    'апреля'          => 'April',
-    'апрель'          => 'April',
-    'мая'             => 'May',
-    'май'             => 'May',
-    'июня'            => 'June',
-    'июля'            => 'July',
-    'августа'         => 'August',
-    'сентября'        => 'September',
-    'сентябрь'        => 'September',
-    'октября'         => 'October',
-    'октябрь'         => 'October',
-    'ноября'          => 'November',
-    'ноябрь'          => 'November',
-    'декабря'         => 'December',
-    'декабрь'         => 'December',
-  }.freeze
-
-  def remap
-    super.merge(REMAP)
-  end
-
-  def date_str
-    super.gsub(' года', '')
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -61,15 +24,19 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def raw_combo_dates
-      noko.text.split('—', 3).take(2).map(&:tidy)
+      noko.xpath('text()').text.gsub('с ', '').split(/[—-]/).map(&:tidy).reject(&:empty?)
+    end
+
+    def raw_end
+      super.to_s
     end
 
     def name_cell
       noko.css('a')
     end
 
-    def date_class
-      RussianExtd
+    def empty?
+      false
     end
   end
 end
