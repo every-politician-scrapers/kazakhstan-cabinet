@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.parent.css('.card-footer div').last.text.tidy
+      noko.css('.staff__subtitle').text.tidy
     end
 
     def position
-      noko.parent.css('.card-footer strong').text.split(/[-–]/).map(&:tidy)
+      noko.css('.staff__title').text.split(/[-–]/).map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('.row .card .card-body')
+      noko.css('.staff__container .staff__item')
     end
   end
 end
