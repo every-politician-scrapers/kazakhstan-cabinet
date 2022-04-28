@@ -10,33 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Министры Казахстана'
-  end
-
-  # TODO: make this easier to override
-  def holder_entries
-    noko.xpath("//h3[.//span[contains(.,'#{header_column}')]][last()]//following-sibling::ol//li[a]")
+    'ФИО'
   end
 
   class Officeholder < OfficeholderBase
-    def combo_date?
-      true
+    def columns
+      %w[no name start end].freeze
     end
 
-    def raw_combo_dates
-      noko.xpath('text()').text.gsub(' с ', '').gsub(' года', '').split(/[—-]/).map(&:tidy).reject(&:empty?)
+    def raw_start
+      super.sub(/^с /, '')
     end
 
     def raw_end
-      super.to_s
-    end
-
-    def name_cell
-      noko.css('a')
-    end
-
-    def empty?
-      false
+      super.sub('по сегодняшний день', 'Incumbent')
     end
   end
 end
