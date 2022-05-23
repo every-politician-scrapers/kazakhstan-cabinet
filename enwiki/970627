@@ -31,7 +31,11 @@
   "primeminister12": "Akezhan Kazhegeldin\n(1994–1997)\nNurlan Balgimbayev\n(1997–1999)",
   "predecessor12": "Kanat Saudabayev",
   "successor12": "Erlan Idrissov",
-  "office13": "United Nations Office at Geneva Director-General of the United Nations Office at Geneva]]| term_start13       = 12 March 2011| term_end13          = 16 October 2013| predecessor13       = Sergei Ordzhonikidze| successor13         = Michael Møller| order13             = 11th\n|undefined"
+  "office13": "11th Director-General of the United Nations Office at Geneva",
+  "term_start13": "12 March 2011",
+  "term_end13": "16 October 2013",
+  "predecessor13": "Sergei Ordzhonikidze",
+  "successor13": "Michael Møller"
 }
 {
   "name": "Kassym-Jomart Tokayev",
@@ -70,7 +74,7 @@
   "successor6": "Erlan Jaqanuly Qoşanov",
   "birth_name": "Kassym-Jomart Kemelevich Tokayev",
   "birth_date": "May 17, 1953",
-  "birth_place": "Alma-Ata, Kazakh SSR, Soviet Union\n(now Almaty, Kazakhstan)",
+  "birth_place": "Alma-Ata, Kazakh SSR, Soviet Union",
   "nationality": "Kazakhstani",
   "party": "Independent (1991–1999, 2022–present)",
   "otherparty": "CPSU \n (before 1991)\nAmanat (1999–2022)",
