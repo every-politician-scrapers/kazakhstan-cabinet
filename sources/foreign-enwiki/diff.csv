@@ -1,7 +1,5 @@
-@@,itemlabel,item,startdate,enddate
----,Kairgaly Baygaliyev,Q108443085,1953,1955
-+++,Toleutay Suleymenov,,1991-12,1994
-->,Erlan Idrissov->Erlan Idrisov,Q58203,1999,2002
-->,Erlan Idrissov->Erlan Idrisov,Q58203,2012-09-28,2016-12-28
-->,Beibut Bakirovich Atamkulov->Beibut Atamkulov,Q4072002,2018-12-26,2019-09-18
-->,Mukhtar Tleuberdi,Q70254110,2019-09-08->2019-09-18,
+@@,item,itemlabel,startdate,enddate
+->,Q58203,Erlan Idrissov->Erlan Idrisov,1999,2002
+->,Q58203,Erlan Idrissov->Erlan Idrisov,2012-09-28,2016-12-28
+->,Q4072002,Beibut Bakirovich Atamkulov->Beibut Atamkulov,2018-12-26,2019-09-18
+->,Q70254110,Mukhtar Tleuberdi,2019-09-08->2019-09-18,
