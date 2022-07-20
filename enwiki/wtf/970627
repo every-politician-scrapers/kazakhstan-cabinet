@@ -290,7 +290,7 @@
           "spouse": "Nadezhda Tokayeva",
           "from": "1980",
           "to": "2020",
-          "end": ".div",
+          "end": "div",
           "template": "marriage"
         },
         {
@@ -1994,7 +1994,7 @@
       ]
     },
     {
-      "title": "Presidency",
+      "title": "Presidency (2019–present)",
       "depth": 0,
       "templates": [
         {
